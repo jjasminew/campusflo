@@ -1,10 +1,14 @@
-import React, { useState } from 'react'
-import { Timestamp, collection, addDoc } from 'firebase/firestore'
-import { ref, uploadBytesResumable, getDownloadURL } from 'firebase/storage'
-import { storage, db } from './../firebaseConfig'
-import { toast } from "react-toastify"
+import React, { useState } from 'react';
+import { Timestamp, collection, addDoc } from 'firebase/firestore';
+import { ref, uploadBytesResumable, getDownloadURL } from 'firebase/storage';
+import { storage, db, auth } from './../firebaseConfig';
+import { toast } from "react-toastify";
+import { useAuthState } from 'react-firebase-hooks/auth';
+import { Link } from 'react-router-dom';
 
 export default function AddPost() {
+  const [user] = useAuthState(auth);
+  
   // initializing form data state
   const [formData, setFormData] = useState({
     title: "",
@@ -70,6 +74,10 @@ export default function AddPost() {
             description: formData.description,
             imageUrl: url,
             createdAt: Timestamp.now().toDate(),
+            createdBy: user.displayName,
+            userId: user.uid,
+            likes:[],
+            comments:[],
           })
             //sending notif that post was added successfully
             .then(() => {
@@ -87,54 +95,65 @@ export default function AddPost() {
   
   return (
     <div className='border p-3 mt-3 bg-light' style={{position:"fixed"}}>
-      <h2>Create post</h2>
-      <label htmlFor="">Title</label>
-      <input 
-        type="text" 
-        name="title" 
-        className="form-control" 
-        value={formData.title}
-        onChange={(e)=>handleChange(e)}
-        />
+      {
+        !user?
+        <>
+          <h2>
+            <Link to='/login'>Login to create article</Link>
+          </h2>
+          Don't have an account? <Link to='/signup'>Sign Up</Link>
+        </>
+        :<>
+          <h2>Create post</h2>
+          <label htmlFor="">Title</label>
+          <input 
+            type="text" 
+            name="title" 
+            className="form-control" 
+            value={formData.title}
+            onChange={(e)=>handleChange(e)}
+          />
 
-      {/* description */}
-      <label htmlFor="">Description</label>
-      <textarea 
-        name="description" 
-        className="form-control" 
-        value={formData.description}
-        onChange={(e)=>handleChange(e)}
-      />
+          {/* description */}
+          <label htmlFor="">Description</label>
+          <textarea 
+            name="description" 
+            className="form-control" 
+            value={formData.description}
+            onChange={(e)=>handleChange(e)}
+          />
 
-      {/* image */}
-      <label htmlFor="">Image</label>
-      <input 
-        type="file" 
-        name="image" 
-        accept="image/*" 
-        className="form-control"
-        onChange={(e)=>handleImageChange(e)}
-      />
+          {/* image */}
+          <label htmlFor="">Image</label>
+          <input 
+            type="file" 
+            name="image" 
+            accept="image/*" 
+            className="form-control"
+            onChange={(e)=>handleImageChange(e)}
+          />
 
-      {/* image progress bar */}
-      {progress === 0 ? null : (
-        <div className="progress">
-          <div
-            className="progress-bar progress-bar-striped mt-2"
-            style={{ width: `${progress}%` }}
+          {/* image progress bar */}
+          {progress === 0 ? null : (
+            <div className="progress">
+              <div
+                className="progress-bar progress-bar-striped mt-2"
+                style={{ width: `${progress}%` }}
+              >
+                {`uploading image ${progress}%`}
+              </div>
+            </div>
+          )}
+
+          {/* submit button */}
+          <button 
+            className="form-control btn-primary mt-2" 
+            onClick={handleSubmit}
           >
-            {`uploading image ${progress}%`}
-          </div>
-        </div>
-      )}
-
-      {/* submit button */}
-      <button 
-        className="form-control btn-primary mt-2" 
-        onClick={handleSubmit}
-      >
-        Submit
-      </button>
+            Submit
+          </button>
+        </>
+      }
     </div>
   )
 }
