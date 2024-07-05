@@ -21,6 +21,7 @@
     "vite": "^5.0.0"
   },
   "dependencies": {
+    "@teachablemachine/image": "^0.8.5",
     "bootstrap": "^5.3.3",
     "firebase": "^10.12.2",
     "font-awesome": "^4.7.0",
