@@ -3,6 +3,7 @@ import { createUserWithEmailAndPassword, updateProfile } from 'firebase/auth'
 import { auth } from './firebaseConfig'
 import { useNavigate } from 'react-router-dom'
 import { toast } from 'react-toastify';
+import Navbar from './components/Navbar'
 
 export default function SignUpScreen(){
   const [email, setEmail] = useState('');
@@ -22,6 +23,7 @@ export default function SignUpScreen(){
   
   return(
     <div className='border p-3 bg-light' style={{marginTop:70}}>
+      <Navbar />
       <h1>Register</h1>
       <div className='form-group'>
         <label>Name</label>

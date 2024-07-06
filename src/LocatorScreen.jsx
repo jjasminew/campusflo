@@ -5,6 +5,8 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import useGeoLocation from "./hooks/useGeoLocation";
 import locations from "./locations.json";
+import Navbar from './components/Navbar'
+import SideNavbar from './components/SideNavbar'
 
 const markerIcon = new L.Icon({
   iconUrl: "src/assets/redmarker.png",
@@ -72,62 +74,69 @@ export default function LocatorScreen() {
 
   return (
     <>
-      <h1>Hello World!</h1>
-      <MapContainer center={[center.lat, center.lng]} zoom={13} scrollWheelZoom={true} ref={mapRef}>
-        <TileLayer
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        />
-        
-        {locations.map((location, idx) => (
-          <Marker
-            position={[location.lat, location.lng]}
-            icon={markerIcon}
-            key={idx}
-          >
-            <Popup>
-              <h5>{location.title}</h5>
-              <p>School: {location.school}</p>
-              <p>Address: {location.address}</p>
-              <p>Additional Info: {location.addinfo}</p>
-            </Popup>
-          </Marker>
-        ))}
-        
-        {location.loaded && !location.error && (
-          <Marker
-            position={[
-              location.coordinates.lat,
-              location.coordinates.lng,
-            ]}
-          >
-            <Popup>
-              <b>
-                You are here!
-              </b>
-            </Popup>
-          </Marker>
-        )}
-        {nearestLocation && (
-          <Polyline
-            positions={[
-              [location.coordinates.lat, location.coordinates.lng],
-              [nearestLocation.lat, nearestLocation.lng]
-            ]}
-            color="blue"
-          />
-        )}
-      </MapContainer>
-
-      <div className="row my-4">
-        <div className="col d-flex justify-content-center">
-          <button className="btn btn-primary" onClick={showMyLocation}>
-            Locate Me
-          </button>
+      <Navbar/>
+      <div className="container-fluid">
+        <div className="row flex-nowrap">
+          <div className="col-auto col-md-3 col-xl-2 px-0">
+            <SideNavbar />
+          </div>
+          <div className="col-md-9 ms-sm-auto col-xl-10">
+            <MapContainer center={[center.lat, center.lng]} zoom={13} scrollWheelZoom={true} ref={mapRef}>
+              <TileLayer
+                attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+              />
+              
+              {locations.map((location, idx) => (
+                <Marker
+                  position={[location.lat, location.lng]}
+                  icon={markerIcon}
+                  key={idx}
+                >
+                  <Popup>
+                    <h5>{location.title}</h5>
+                    <p>School: {location.school}</p>
+                    <p>Address: {location.address}</p>
+                    <p>Additional Info: {location.addinfo}</p>
+                  </Popup>
+                </Marker>
+              ))}
+              
+              {location.loaded && !location.error && (
+                <Marker
+                  position={[
+                    location.coordinates.lat,
+                    location.coordinates.lng,
+                  ]}
+                >
+                  <Popup>
+                    <b>
+                      You are here!
+                    </b>
+                  </Popup>
+                </Marker>
+              )}
+              {nearestLocation && (
+                <Polyline
+                  positions={[
+                    [location.coordinates.lat, location.coordinates.lng],
+                    [nearestLocation.lat, nearestLocation.lng]
+                  ]}
+                  color="blue"
+                />
+              )}
+            </MapContainer>
+      
+            <div className="row my-4">
+              <div className="col d-flex justify-content-center">
+                <button className="btn btn-primary" onClick={showMyLocation}>
+                  Locate Me
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-      
-
     </>
   )
 }

@@ -3,6 +3,7 @@ import { signInWithEmailAndPassword } from 'firebase/auth';
 import { auth } from './firebaseConfig'
 import { useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
+import Navbar from './components/Navbar'
 
 export default function LogInScreen(){
   const [email, setEmail] = useState('');
@@ -12,7 +13,7 @@ export default function LogInScreen(){
   const handleLogIn = async()=>{
     try {
       await signInWithEmailAndPassword(auth, email, password);
-      navigate('/');
+      navigate('/locator');
     } catch (error) {
       toast(error.code, {type:'error'});
     }
@@ -20,6 +21,7 @@ export default function LogInScreen(){
   
   return(
     <div className='border p-3 bg-light mx-auto'>
+      <Navbar />
       <h1>Login</h1>
       <div className='form-group'>
         <label>Email</label>

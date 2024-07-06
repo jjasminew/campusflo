@@ -9,24 +9,28 @@ export default function Navbar(){
   
   return(
     <div>
-      <nav className='navbar'>
+      <nav className='navbar p-3' style={{backgroundColor: '#F7DCDC'}}>
         <div>
-          <img src='favicon.svg' width={30} alt="logo" className='mg-5'/>
+          <Link to='/'>
+            <img src='favicon.svg' width={30} alt="logo" className='mg-5'/>
+          </Link>
         </div>
-        <Link className='nav-link' to='/'>Home</Link>
         <div>
           {
-            user &&(
-              <>
-                <span className='pe-4'>
+            !user?
+            <>
+              <h2>
+                <button><Link to='/login'>Log In</Link></button>
+              </h2>
+            </>
+            :<>
+              <span className='pe-4'>
                   Signed in as {user.displayName || user.email}
                 </span>
                 <button className='btn btn-primary btn-sm me-3' onClick={()=>{signOut(auth)}}>Logout</button>
-              </>
-            )
+            </>   
           }
         </div>
-        
       </nav>
     </div>
   )

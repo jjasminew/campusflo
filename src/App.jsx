@@ -12,13 +12,13 @@ export default function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<LocatorScreen />} />
+        <Route path="/" element={<HomeScreen />} />
         <Route path="/signup" element={<SignUpScreen />} />
         <Route path="/login" element={<LogInScreen />} />
         <Route path="/post/:id" element={<Post />} />
-          {/* <Route path="/locator" element={<LocatorScreen />} />
-          <Route path="/products" element={<ProductsScreen />} />
-          <Route path="/community" element={<CommunityScreen />} /> */}
+        <Route path="/locator" element={<LocatorScreen />} />
+        <Route path="/products" element={<ProductsScreen />} />
+        <Route path="/community" element={<CommunityScreen />} />
       </Routes>
     </Router>
   )

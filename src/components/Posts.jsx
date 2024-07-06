@@ -34,11 +34,11 @@ export default function Posts() {
           <p>No articles found!</p>
         ):(
           posts.map(({id, title, description, imageUrl, createdAt, createdBy, userId, likes, comments}) => (
-            <div className='border mt-3 p-3 bg-light' key={id}>
+            <div className='border mt-2 p-2 bg-light' key={id}>
               <div className="row">
                 <div className="col-3">
                   <Link to={`/post/${id}`}>
-                    <img src = {imageUrl} alt = 'title' style={{height:180, width:180}}/>
+                    <img src = {imageUrl} alt = 'title' style={{height:120, width:120}}/>
                   </Link>
                 </div>
                 <div className="col-9 ps-3">

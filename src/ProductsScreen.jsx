@@ -1,6 +1,8 @@
 import React, {useState} from "react";
 import * as tmImage from "@teachablemachine/image";
 import * as tf from "@tensorflow/tfjs";
+import Navbar from './components/Navbar';
+import SideNavbar from './components/SideNavbar';
 
 export default function ProductsScreen() {
   const URL = {
@@ -85,17 +87,27 @@ export default function ProductsScreen() {
   }
 
   return (
-    <div>
-      <div>Teachable Machine Image Model</div>
-      <button type="button" onClick={() => start(URL.products)}>
-        Menstrual Products
-      </button>
-      <button type="button" onClick={() => start(URL.pills)}>
-        Menstrual Pills
-      </button>
-      <div id="webcam-container"></div>
-      <div id="label-container"></div>
-      <div id="info-container"></div>
-    </div>
+    <>
+      <Navbar />
+      <div className="container-fluid">
+        <div className="row flex-nowrap">
+          <div className="col-auto col-md-3 col-xl-2 px-0">
+            <SideNavbar/>
+          </div>
+          <div className="col-md-9 ms-sm-auto col-xl-10">
+            <div>Teachable Machine Image Model</div>
+            <button type="button" onClick={() => start(URL.products)}>
+              Menstrual Products
+            </button>
+            <button type="button" onClick={() => start(URL.pills)}>
+              Menstrual Pills
+            </button>
+            <div id="webcam-container"></div>
+            <div id="label-container"></div>
+            <div id="info-container"></div>
+          </div>
+        </div>
+      </div>
+    </>
   );
 };
