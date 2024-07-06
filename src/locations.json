@@ -1,0 +1,1858 @@
+[
+    {
+        "title": "Rosenfeld Hall",
+        "school": "UCLA",
+        "address": "700 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0667059,
+        "lng": -118.4447794,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Ashe Center",
+        "school": "UCLA",
+        "address": "221 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0713706,
+        "lng": -118.4460125,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Biomedical Sciences Research Building",
+        "school": "UCLA",
+        "address": "615 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.067377,
+        "lng": -118.4415109,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Boelter Hall Annex",
+        "school": "UCLA",
+        "address": "404 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0697154,
+        "lng": -118.4443057,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Boelter Hall",
+        "school": "UCLA",
+        "address": "580 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0691503,
+        "lng": -118.4427673,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Boyer Hall",
+        "school": "UCLA",
+        "address": "611 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0681876,
+        "lng": -118.4417607,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Brain Mapping Center",
+        "school": "UCLA",
+        "address": "660 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.0666206,
+        "lng": -118.4442365,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Brain Research Institute",
+        "school": "UCLA",
+        "address": "670 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.0670075,
+        "lng": -118.4444335,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Broad Art Center",
+        "school": "UCLA",
+        "address": "240 Charles E. Young Drive, North\nLos Angeles, CA 90095",
+        "lat": 34.0756937,
+        "lng": -118.4410474,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Bunche Hall",
+        "school": "UCLA",
+        "address": "315 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0742539,
+        "lng": -118.4401283,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Campbell Hall",
+        "school": "UCLA",
+        "address": "335 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0736717,
+        "lng": -118.4413024,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Capital Programs",
+        "school": "UCLA",
+        "address": "1060 Veteran Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0602144,
+        "lng": -118.4484906,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Clinical Research",
+        "school": "UCLA",
+        "address": "700 Tiverton Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0636819,
+        "lng": -118.442431,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "California NanoSystems Institute",
+        "school": "UCLA",
+        "address": "570 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0678484,
+        "lng": -118.4437715,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Campus Services Building 1",
+        "school": "UCLA",
+        "address": "570 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0678484,
+        "lng": -118.4437715,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Biomedical Cyclotron Facility",
+        "school": "UCLA",
+        "address": "780 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0658845,
+        "lng": -118.4440417,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "School of Dentistry",
+        "school": "UCLA",
+        "address": "714 Tiverton Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0660174,
+        "lng": -118.4418704,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Dodd Hall",
+        "school": "UCLA",
+        "address": "390 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0728027,
+        "lng": -118.4393181,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Doris Stein Eye Research Center",
+        "school": "UCLA",
+        "address": "200 Stein Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0647096,
+        "lng": -118.4450459,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Drake Track and Field Stadium",
+        "school": "UCLA",
+        "address": "340 Charles E. Young Drive, West\nLos Angeles, CA 90095",
+        "lat": 34.0710141,
+        "lng": -118.4494743,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "East Melnitz",
+        "school": "UCLA",
+        "address": "235 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0764333,
+        "lng": -118.4400098,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Environmental Health and Safety Services Building",
+        "school": "UCLA",
+        "address": "550 Charles E. Young Drive, West\nLos Angeles, CA 90095",
+        "lat": 34.0683327,
+        "lng": -118.4481163,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Engineering 4",
+        "school": "UCLA",
+        "address": "420 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0687997,
+        "lng": -118.4440275,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Engineering 5",
+        "school": "UCLA",
+        "address": "410 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0695134,
+        "lng": -118.4429993,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Engineering 6",
+        "school": "UCLA",
+        "address": "404 Westwood\nLos Angeles, CA 90095",
+        "lat": 34.070264,
+        "lng": -118.4440562,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Facilities Management",
+        "school": "UCLA",
+        "address": "731 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.0672582,
+        "lng": -118.4461552,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Doris and Louis Factor Health Sciences Building",
+        "school": "UCLA",
+        "address": "700 Tiverton Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0636819,
+        "lng": -118.442431,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Fernald Child Development Center",
+        "school": "UCLA",
+        "address": "320 Charles E. Young Drive, North\nLos Angeles, CA 90095",
+        "lat": 34.0762404,
+        "lng": -118.4441151,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Fleet Services Garage",
+        "school": "UCLA",
+        "address": "751 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.0670903,
+        "lng": -118.4473921,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Fowler Museum",
+        "school": "UCLA",
+        "address": "308 Charles E. Young Drive, North\nLos Angeles, CA 90095",
+        "lat": 34.0729624,
+        "lng": -118.443087,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Franz Hall",
+        "school": "UCLA",
+        "address": "502 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0696422,
+        "lng": -118.4412792,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Geffen Hall",
+        "school": "UCLA",
+        "address": "885 Tiverton Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0645012,
+        "lng": -118.4423359,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Geology Building",
+        "school": "UCLA",
+        "address": "595 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.069271,
+        "lng": -118.4407842,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Gonda Neuroscience and Genetic Research Center",
+        "school": "UCLA",
+        "address": "695 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.0673704,
+        "lng": -118.4446824,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Neuroscience Research Building",
+        "school": "UCLA",
+        "address": "635 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.0674153,
+        "lng": -118.443463,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Haines Hall",
+        "school": "UCLA",
+        "address": "375 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0728785,
+        "lng": -118.4411359,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Center for Health Sciences",
+        "school": "UCLA",
+        "address": "10833 Le Conte Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0642828999999,
+        "lng": -118.4423562,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Hershey Hall",
+        "school": "UCLA",
+        "address": "612 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0669188,
+        "lng": -118.4404683,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Jules Stein Eye Institute",
+        "school": "UCLA",
+        "address": "100 Stein Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0649352,
+        "lng": -118.4438835,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Kaplan Hall",
+        "school": "UCLA",
+        "address": "415 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0715,
+        "lng": -118.4410851,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Kaufman Hall",
+        "school": "UCLA",
+        "address": "120 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0727472,
+        "lng": -118.4437767,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Knudsen Hall",
+        "school": "UCLA",
+        "address": "475 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.070562,
+        "lng": -118.4411044,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Kinross Recreation Center",
+        "school": "UCLA",
+        "address": "11100 Kinross Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0588761,
+        "lng": -118.4481057,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Krieger Child Care Center",
+        "school": "UCLA",
+        "address": "101 Bellagio Drive\nLos Angeles, CA 90095",
+        "lat": 34.0757098,
+        "lng": -118.4548247,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Los Angeles Tennis Center",
+        "school": "UCLA",
+        "address": "420 Charles E. Young Drive, West\nLos Angeles, CA 90095",
+        "lat": 34.0702935,
+        "lng": -118.4478951,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "La Kretz Hall",
+        "school": "UCLA",
+        "address": "619 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0651472,
+        "lng": -118.4423579,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "School of Law",
+        "school": "UCLA",
+        "address": "385 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0729137999999,
+        "lng": -118.4384435,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Margo Leavin Graduate Art Studio",
+        "school": "UCLA",
+        "address": "3600 Hayden Avenue\nCulver City, CA 90232",
+        "lat": 34.0241617,
+        "lng": -118.3815289,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Life Sciences",
+        "school": "UCLA",
+        "address": "621 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.0671165,
+        "lng": -118.4422156,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "La Kretz Botany Building",
+        "school": "UCLA",
+        "address": "618 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.0668155,
+        "lng": -118.4411305,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "La Kretz Garden Pavilion",
+        "school": "UCLA",
+        "address": "707 Tiverton Drive\nLos Angeles, CA 90095",
+        "lat": 34.0667568,
+        "lng": -118.4415495,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Marion Davies Children's Health Center",
+        "school": "UCLA",
+        "address": "805 Tiverton Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0637198,
+        "lng": -118.4425103,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "MacDonald Medical Research Laboratory",
+        "school": "UCLA",
+        "address": "675 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.0671114,
+        "lng": -118.4439594,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Macgowan Hall",
+        "school": "UCLA",
+        "address": "245 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0758815,
+        "lng": -118.4396813,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Macgowan Hall East",
+        "school": "UCLA",
+        "address": "243 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0761166,
+        "lng": -118.439309,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Mathematical Sciences",
+        "school": "UCLA",
+        "address": "520 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0695771,
+        "lng": -118.4427578,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Melnitz Hall",
+        "school": "UCLA",
+        "address": "235 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0764333,
+        "lng": -118.4400098,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Molecular Sciences",
+        "school": "UCLA",
+        "address": "609 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.067788,
+        "lng": -118.4412146,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Moore Hall",
+        "school": "UCLA",
+        "address": "457 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0704197,
+        "lng": -118.4426416,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Murphy Hall",
+        "school": "UCLA",
+        "address": "410 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0716091,
+        "lng": -118.4387084,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Northwest Campus Auditorium",
+        "school": "UCLA",
+        "address": "200 De Neve Drive\nLos Angeles, CA 90095",
+        "lat": 34.0738545,
+        "lng": -118.4496167,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Orthopaedic Hospital Research Center",
+        "school": "UCLA",
+        "address": "615 Charles E. Young Drive, South\nLos Angeles, CA 90024",
+        "lat": 34.067377,
+        "lng": -118.4415109,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Ostin Music Center",
+        "school": "UCLA",
+        "address": "445 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0707483,
+        "lng": -118.4401261,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Perloff Hall",
+        "school": "UCLA",
+        "address": "365 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.073456,
+        "lng": -118.4401909,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Physics and Astronomy Building",
+        "school": "UCLA",
+        "address": "430 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.070641,
+        "lng": -118.4415345,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Plant Growth Center",
+        "school": "UCLA",
+        "address": "614 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.0662658,
+        "lng": -118.4403188,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "UCPD Police Station",
+        "school": "UCLA",
+        "address": "601 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0673085,
+        "lng": -118.4454037,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Portola Plaza Building",
+        "school": "UCLA",
+        "address": "460 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.070242,
+        "lng": -118.4419247,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Powell Library",
+        "school": "UCLA",
+        "address": "10740 Dickson Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0722226,
+        "lng": -118.4420203,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Pritzker Hall",
+        "school": "UCLA",
+        "address": "502 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0696422,
+        "lng": -118.4412792,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Psychology Building",
+        "school": "UCLA",
+        "address": "502 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0696422,
+        "lng": -118.4412792,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Public Affairs Building",
+        "school": "UCLA",
+        "address": "337 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0741192,
+        "lng": -118.4392242,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "School of Public Health",
+        "school": "UCLA",
+        "address": "640 Charles E. Young Drive, South\nLos Angeles, CA 90095",
+        "lat": 34.066629,
+        "lng": -118.4435716,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Reed Neurological Research Center",
+        "school": "UCLA",
+        "address": "710 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0661919,
+        "lng": -118.4448319,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Rehabilitation Building",
+        "school": "UCLA",
+        "address": "1000 Veteran Avenue\nLos Angeles, CA 90095",
+        "lat": 34.060997,
+        "lng": -118.4495939,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Rolfe Hall",
+        "school": "UCLA",
+        "address": "345 Portola Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0737012,
+        "lng": -118.44207,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Royce Hall",
+        "school": "UCLA",
+        "address": "10745 Dickson Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0722226,
+        "lng": -118.4420203,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Student Activities Center",
+        "school": "UCLA",
+        "address": "220 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0715794,
+        "lng": -118.4440903,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Schoenberg Hall",
+        "school": "UCLA",
+        "address": "445 Charles E Young Dr E, Los Angeles, CA 90095",
+        "lat": 34.0707483,
+        "lng": -118.4401261,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "School of Education and Information Studies",
+        "school": "UCLA",
+        "address": "290 Charles E. Young Drive, North\nLos Angeles, CA 90095",
+        "lat": 34.0750904,
+        "lng": -118.4421242,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Semel Institute for Neuroscience and Human Behavior",
+        "school": "UCLA",
+        "address": "760 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0658272,
+        "lng": -118.4449065,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Slichter Hall",
+        "school": "UCLA",
+        "address": "603 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0689305,
+        "lng": -118.4407805,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Sunset Canyon Recreation Center",
+        "school": "UCLA",
+        "address": "111 Easton Drive\nLos Angeles, CA 90095",
+        "lat": 34.0752346,
+        "lng": -118.4510674,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Strathmore Building",
+        "school": "UCLA",
+        "address": "501-555 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.068463,
+        "lng": -118.4454043,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Southern Regional Library Facility",
+        "school": "UCLA",
+        "address": "305 De Neve Drive\nLos Angeles, CA 90095",
+        "lat": 34.0709543,
+        "lng": -118.4542037,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Science and Technology Research Building",
+        "school": "UCLA",
+        "address": "1040 Veteran Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0607966,
+        "lng": -118.4484681,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Sycamore Tennis Courts Rest Rooms",
+        "school": "UCLA",
+        "address": "111 De Neve Drive\nLos Angeles, CA 90095",
+        "lat": 34.0736162,
+        "lng": -118.4530684,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Terasaki Life Sciences Building",
+        "school": "UCLA",
+        "address": "610 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0685617,
+        "lng": -118.4403265,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Transit Operations Maintenance Yard",
+        "school": "UCLA",
+        "address": "11075 Kinross Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0595312,
+        "lng": -118.4484427,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "UCLA Lab School 1",
+        "school": "UCLA",
+        "address": "330 Charles E. Young Drive, North\nLos Angeles, CA 90095",
+        "lat": 34.0753797,
+        "lng": -118.4441083,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "UCLA Lab School 2",
+        "school": "UCLA",
+        "address": "305 Sycamore Court\nLos Angeles, CA 90095",
+        "lat": 34.0759704,
+        "lng": -118.4441094,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Ueberroth Olympic Office Building",
+        "school": "UCLA",
+        "address": "10945 Le Conte Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0641454,
+        "lng": -118.4469866,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "James West Alumni Center",
+        "school": "UCLA",
+        "address": "325 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.070108,
+        "lng": -118.4456309,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "West Medical Steam Plant",
+        "school": "UCLA",
+        "address": "1021 Weyburn Place South\nLos Angeles, CA 90095",
+        "lat": 34.0610001,
+        "lng": -118.4482386,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "West Medical",
+        "school": "UCLA",
+        "address": "1010 Veteran Avenue\nLos Angeles, CA 90095",
+        "lat": 34.0605391,
+        "lng": -118.4478645,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "John Wooden Center",
+        "school": "UCLA",
+        "address": "221 Westwood Plaza\nLos Angeles, CA 90095",
+        "lat": 34.0713706,
+        "lng": -118.4460125,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Young Hall",
+        "school": "UCLA",
+        "address": "607 Charles E. Young Drive, East\nLos Angeles, CA 90095",
+        "lat": 34.0688448,
+        "lng": -118.4412088,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Young Research Library",
+        "school": "UCLA",
+        "address": "280 Charles E. Young Drive, North\nLos Angeles, CA 90095",
+        "lat": 34.0749683,
+        "lng": -118.4414615,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Campus Health & Wellness Food Pantry",
+        "school": "Cal Poly SLO",
+        "address": "1 Grand Ave building 27, San Luis Obispo, CA 93407",
+        "lat": 35.29792,
+        "lng": -120.66114,
+        "addinfo": "Building 27, Room 10"
+    },
+    {
+        "title": "Crandall Gymnasium",
+        "school": "Cal Poly SLO",
+        "address": "Crandall Gymnasium, San Luis Obispo, CA 93407",
+        "lat": 35.29951,
+        "lng": -120.66415,
+        "addinfo": "Building 60, Room 106"
+    },
+    {
+        "title": "Facilities",
+        "school": "Cal Poly SLO",
+        "address": "1 Grand Ave, Building 70, San Luis Obispo, CA 93407",
+        "lat": 35.30358,
+        "lng": -120.65974,
+        "addinfo": "Building 70, Room 101"
+    },
+    {
+        "title": "University Union",
+        "school": "Cal Poly SLO",
+        "address": "University Union, Julian A. McPhee University Union, 1 Grand Ave, San Luis Obispo, CA 93405",
+        "lat": 35.30017,
+        "lng": -120.65889,
+        "addinfo": "Restroom 115 inside Mustang Lanes"
+    },
+    {
+        "title": "University Housing",
+        "school": "Cal Poly SLO",
+        "address": "University Housing, San Luis Obispo, CA 93407",
+        "lat": 35.30198,
+        "lng": -120.65757,
+        "addinfo": "Building 31, Rooms 109, 208, and 209"
+    },
+    {
+        "title": "Trinity Hall ",
+        "school": "Cal Poly SLO",
+        "address": "South Mountain Dorms, 1 Grand Ave, San Luis Obispo, CA 93405",
+        "lat": 35.30178,
+        "lng": -120.65717,
+        "addinfo": "Building 105, Rooms 100PA and 100CA"
+    },
+    {
+        "title": "Santa Lucia Hall",
+        "school": "Cal Poly SLO",
+        "address": "South Mountain Dorms, 1 Grand Ave, San Luis Obispo, CA 93405",
+        "lat": 35.30155,
+        "lng": -120.65776,
+        "addinfo": "Building 106, Rooms 100PA and 100CA"
+    },
+    {
+        "title": "Muir Hall",
+        "school": "Cal Poly SLO",
+        "address": "1 Grand Ave Building 107, San Luis Obispo, CA 93405",
+        "lat": 35.30091,
+        "lng": -120.65678,
+        "addinfo": "Building 107, Rooms 100PA and 100CA"
+    },
+    {
+        "title": "Sequoia Hall ",
+        "school": "Cal Poly SLO",
+        "address": "1 Klamath Rd, San Luis Obispo, CA 93407",
+        "lat": 35.3008,
+        "lng": -120.65729,
+        "addinfo": "Building 108, Rooms 100PA and 100CA"
+    },
+    {
+        "title": "Fremont Hall",
+        "school": "Cal Poly SLO",
+        "address": "Fremont Hall, 1 Grand Ave Building 109, San Luis Obispo, CA 93407",
+        "lat": 35.30028,
+        "lng": -120.6558,
+        "addinfo": "Building 109, Rooms 100PA and 100CA"
+    },
+    {
+        "title": "Tenaya Hall ",
+        "school": "Cal Poly SLO",
+        "address": "Tenaya Hall, San Luis Obispo, CA 93405",
+        "lat": 35.29998,
+        "lng": -120.6565,
+        "addinfo": "Building 110, Rooms 100PA and 100CA"
+    },
+    {
+        "title": "Sierra Madre Hall",
+        "school": "Cal Poly SLO",
+        "address": "Sierra Madre Hall, Deer Rd, San Luis Obispo, CA 93407",
+        "lat": 35.29875,
+        "lng": -120.65498,
+        "addinfo": "Building 113, Rooms L109 and L116"
+    },
+    {
+        "title": "Yosemite Hall",
+        "school": "Cal Poly SLO",
+        "address": "1 Grand Ave, San Luis Obispo, CA 93410",
+        "lat": 35.29766,
+        "lng": -120.65362,
+        "addinfo": "Building 114, Rooms L109 and L116"
+    },
+    {
+        "title": "Cerro San Luis",
+        "school": "Cal Poly SLO",
+        "address": "California Polytechnic State University Cerro Vista Apartments, 1 Grand Ave, San Luis Obispo, CA 93407",
+        "lat": 35.304,
+        "lng": -120.6573,
+        "addinfo": "Building 170G, Rooms 102 and 103"
+    },
+    {
+        "title": "Aliso",
+        "school": "Cal Poly SLO",
+        "address": "Canyon Cir, San Luis Obispo, CA 93407",
+        "lat": 35.30681,
+        "lng": -120.65914,
+        "addinfo": "Building 171A, Rooms 009, 011, 032, 053, and 051"
+    },
+    {
+        "title": "Inyo",
+        "school": "Cal Poly SLO",
+        "address": "Poly Canyon Village, 1, Grand Ave, San Luis Obispo, CA 93410",
+        "lat": 35.30754,
+        "lng": -120.65878,
+        "addinfo": "Building 171I, Rooms 003 and 004"
+    },
+    {
+        "title": "Estrella",
+        "school": "Cal Poly SLO",
+        "address": "Poly Canyon Village, 1 Grand Ave, San Luis Obispo, CA 93407",
+        "lat": 35.3087,
+        "lng": -120.6589,
+        "addinfo": "Building 171E, Rooms 17 and 19"
+    },
+    {
+        "title": "yakʔitʸutʸu",
+        "school": "Cal Poly SLO",
+        "address": "1 Grand Ave, San Luis Obispo, CA 93405",
+        "lat": 35.29795,
+        "lng": -120.65536,
+        "addinfo": "Building 172H, Rooms 104 (outside), 105, 106 (outside), 140, 142, 220B, and 222"
+    },
+    {
+        "title": "University Housing Depot ",
+        "school": "Cal Poly SLO",
+        "address": "University Housing, San Luis Obispo, CA 93407",
+        "lat": 35.30208,
+        "lng": -120.65768,
+        "addinfo": "Building 371B, Room 101A"
+    },
+    {
+        "title": "J Walter Wilson",
+        "school": "Brown University",
+        "address": "69 Brown St, Providence, RI 02906",
+        "lat": 41.8275019,
+        "lng": -71.4028087,
+        "addinfo": "Floors 2, 3, 4"
+    },
+    {
+        "title": "Brown Center for Students of Color",
+        "school": "Brown University",
+        "address": "68 Brown St, Providence, RI 02912",
+        "lat": 41.8274033,
+        "lng": -71.4032507,
+        "addinfo": "Floors 1, 3"
+    },
+    {
+        "title": "Salomon Center",
+        "school": "Brown University",
+        "address": "Providence, RI 02912",
+        "lat": 41.8265309,
+        "lng": -71.4024032,
+        "addinfo": "Floor 1"
+    },
+    {
+        "title": "Sayles Hall",
+        "school": "Brown University",
+        "address": "Sayles Hall, Providence, RI 02912",
+        "lat": 41.8262112,
+        "lng": -71.4025754,
+        "addinfo": "Floors G"
+    },
+    {
+        "title": "Science Library ",
+        "school": "Brown University",
+        "address": "201 Thayer St, Providence, RI 02912",
+        "lat": 41.826925,
+        "lng": -71.4001655,
+        "addinfo": "Floors G, 2, 3"
+    },
+    {
+        "title": "Thomas J. Watson Sr. Center for Information Technology",
+        "school": "Brown University",
+        "address": "Thomas J. Watson Sr. Center for Information Technology, 115 Waterman St, Providence, RI 02912",
+        "lat": 41.8269387,
+        "lng": -71.3995623,
+        "addinfo": "Floors 1, 2"
+    },
+    {
+        "title": "The Rockefeller",
+        "school": "Brown University",
+        "address": "10 Prospect St, Providence, RI 02912",
+        "lat": 41.8257007,
+        "lng": -71.4051436,
+        "addinfo": "Floor G, 2"
+    },
+    {
+        "title": "Campus Center",
+        "school": "Brown University",
+        "address": "75 Waterman St, Providence, RI 02912",
+        "lat": 41.8268716,
+        "lng": -71.4029317,
+        "addinfo": "Floor G, 2"
+    },
+    {
+        "title": "SmittyB",
+        "school": "Brown University",
+        "address": "95 Cushing St, Providence, RI 02906",
+        "lat": 41.8296709,
+        "lng": -71.4028278,
+        "addinfo": "Floor 1"
+    },
+    {
+        "title": "Ratty",
+        "school": "Brown University",
+        "address": "Upper Level, 144 Thayer St, Providence, RI 02906",
+        "lat": 41.8251284,
+        "lng": -71.4008277,
+        "addinfo": "Floor G"
+    },
+    {
+        "title": "VDub",
+        "school": "Brown University",
+        "address": "135 Cushing St, Providence, RI 02912",
+        "lat": 41.8298002,
+        "lng": -71.4016954,
+        "addinfo": "Floor 1"
+    },
+    {
+        "title": "Macmillan Hall",
+        "school": "Brown University",
+        "address": "MacMillan Hall, Providence, RI 02912",
+        "lat": 41.8260118,
+        "lng": -71.4001082,
+        "addinfo": "Floor 1"
+    },
+    {
+        "title": "Metcalf ",
+        "school": "Brown University",
+        "address": "190 Thayer St, Providence, RI 02912",
+        "lat": 41.8269562,
+        "lng": -71.4011727,
+        "addinfo": "Floor 1"
+    },
+    {
+        "title": "Sarah Doyle Women’s Center",
+        "school": "Brown University",
+        "address": "Brown University, 26 Benevolent St, Providence, RI 02912",
+        "lat": 41.8247218,
+        "lng": -71.4028644,
+        "addinfo": "Floor 1"
+    },
+    {
+        "title": "Anderson Hall",
+        "school": "University of Mississippi",
+        "address": "Anderson Hall, 751 All American Drive, University, MS 38677",
+        "lat": 34.3638663,
+        "lng": -89.5352461,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Bishop Hall",
+        "school": "University of Mississippi",
+        "address": "University, MS 38677",
+        "lat": 34.3648466,
+        "lng": -89.5392895,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Bondurant Hall",
+        "school": "University of Mississippi",
+        "address": "Bondurant Hall, University, MS 38677",
+        "lat": 34.3652495,
+        "lng": -89.538682,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Brevard Hall",
+        "school": "University of Mississippi",
+        "address": "1806 University Cir, Oxford, MS 38655",
+        "lat": 34.3646457,
+        "lng": -89.5360436,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Bryant Hall",
+        "school": "University of Mississippi",
+        "address": "Bryant Hall, University, MS 38677",
+        "lat": 34.366271,
+        "lng": -89.5350064,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Conner Hall",
+        "school": "University of Mississippi",
+        "address": "University of Mississippi, University, MS 38677",
+        "lat": 34.3662928,
+        "lng": -89.5365688,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Coulter Hall",
+        "school": "University of Mississippi",
+        "address": "140 University Ave, Oxford, MS 38655",
+        "lat": 34.3645195,
+        "lng": -89.531506,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Farley Hall",
+        "school": "University of Mississippi",
+        "address": "115 Sorority Row, University, MS 38677",
+        "lat": 34.3669932,
+        "lng": -89.5323805,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "FedEx Academic Center",
+        "school": "University of Mississippi",
+        "address": "University, MS 38677",
+        "lat": 34.3631445,
+        "lng": -89.5343009,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Garland Hall",
+        "school": "University of Mississippi",
+        "address": "Garland Hall, University, MS 38677",
+        "lat": 34.3663888,
+        "lng": -89.5405122,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Guyton Hall",
+        "school": "University of Mississippi",
+        "address": "49 Guyton Dr, University, MS 38677",
+        "lat": 34.3660853,
+        "lng": -89.5428792,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Holman Hall",
+        "school": "University of Mississippi",
+        "address": "Conner Hall, 304 University Cir, University, MS 38677",
+        "lat": 34.3661305,
+        "lng": -89.5362275,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Hume Hall",
+        "school": "University of Mississippi",
+        "address": "Hume Hall, University, MS 38677",
+        "lat": 34.3643573,
+        "lng": -89.5341782,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "JD Williams Library",
+        "school": "University of Mississippi",
+        "address": "50 Galtney Lott Plaza, 1 Library Pl, University, MS 38677",
+        "lat": 34.3662913,
+        "lng": -89.5379826,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Lamar Hall",
+        "school": "University of Mississippi",
+        "address": "615 Grove Loop, University, MS 38677",
+        "lat": 34.36672,
+        "lng": -89.5312450999999,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Lewis Hall",
+        "school": "University of Mississippi",
+        "address": "Lewis Hall, University, MS 38677",
+        "lat": 34.3647273,
+        "lng": -89.5368259,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Peabody Hall",
+        "school": "University of Mississippi",
+        "address": "304 University Cir, University, MS 38677",
+        "lat": 34.3658498,
+        "lng": -89.5343639,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Rebel Market",
+        "school": "University of Mississippi",
+        "address": "144, Paul B. Johnson Commons, University, MS 38677",
+        "lat": 34.3661336,
+        "lng": -89.5385714,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Sally McDonnel Barksdale Honors College",
+        "school": "University of Mississippi",
+        "address": "Sally McDonnell Barksdale Honors College, 1 Sorority Row, University, MS 38677",
+        "lat": 34.3674239,
+        "lng": -89.532044,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Shoemaker Hall",
+        "school": "University of Mississippi",
+        "address": "Shoemaker Hall, University, MS 38677",
+        "lat": 34.3645846,
+        "lng": -89.5334711,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "South Campus Recreation Center",
+        "school": "University of Mississippi",
+        "address": "980 Whirlpool Dr, Oxford, MS 38655",
+        "lat": 34.3539543,
+        "lng": -89.5413657,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Student Union",
+        "school": "University of Mississippi",
+        "address": "Ole Miss Union, University, MS 38677",
+        "lat": 34.3668641,
+        "lng": -89.5344222,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Turner Center",
+        "school": "University of Mississippi",
+        "address": "Turner Center, University, MS 38677",
+        "lat": 34.3634011,
+        "lng": -89.537354,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "UM School of Law",
+        "school": "University of Mississippi",
+        "address": "481 Chucky Mullins Dr, University, MS 38677",
+        "lat": 34.362814,
+        "lng": -89.542908,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Olin Hall of Engineering",
+        "school": "University of Southern California",
+        "address": "3650 McClintock Ave, Los Angeles, CA 90089",
+        "lat": 34.020786,
+        "lng": -118.289307,
+        "addinfo": "1st Floor Women’s Restroom"
+    },
+    {
+        "title": "Ronald Tutor Hall (RTH)",
+        "school": "University of Southern California",
+        "address": "3710 McClintock Ave, Los Angeles, CA 90089",
+        "lat": 34.0201599,
+        "lng": -118.2897853,
+        "addinfo": "1st Floor Women’s Restroom"
+    },
+    {
+        "title": "Science & Engineering Library",
+        "school": "University of Southern California",
+        "address": "Seaver Science Library, 910 Bloom Walk, Los Angeles, CA 90089",
+        "lat": 34.0195753,
+        "lng": -118.2887614,
+        "addinfo": "1st Floor Gender-Neutral Restroom, 2nd Floor Women’s Restroom"
+    },
+    {
+        "title": "Leavey Library",
+        "school": "University of Southern California",
+        "address": "651 W 35th St, Los Angeles, CA 90089",
+        "lat": 34.0230343,
+        "lng": -118.2874563,
+        "addinfo": "1st Floor Women’s Restroom, 1st Floor Men’s Restroom"
+    },
+    {
+        "title": "Target",
+        "school": "University of Southern California",
+        "address": "3131 S Hoover St #1910, Los Angeles, CA 90089",
+        "lat": 34.0259722,
+        "lng": -118.2841969,
+        "addinfo": "Breakroom"
+    },
+    {
+        "title": "\nUSC Village",
+        "school": "University of Southern California",
+        "address": "929 W Jefferson Blvd #1620, Los Angeles, CA 90089",
+        "lat": 34.0250132,
+        "lng": -118.2853451,
+        "addinfo": "Women’s Restroom, Men’s Restroom"
+    },
+    {
+        "title": "Taper Hall",
+        "school": "University of Southern California",
+        "address": "3501 Trousdale Pkwy, Los Angeles, CA 90089",
+        "lat": 34.02194,
+        "lng": -118.28455,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Student Union",
+        "school": "University of Southern California",
+        "address": "Student Union, 3601 Trousdale Pkwy Suite 101, Los Angeles, CA 90089",
+        "lat": 34.0202225,
+        "lng": -118.2856428,
+        "addinfo": "4th Floor Gender-Neutral Restroom"
+    },
+    {
+        "title": "USC Gould School of Law",
+        "school": "University of Southern California",
+        "address": "699 W Exposition Blvd, Los Angeles, CA 90089",
+        "lat": 34.0185598,
+        "lng": -118.2850163,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Dwinelle Hall",
+        "school": "UC Berkeley",
+        "address": "Dwinelle Hall, Berkeley, CA 94704",
+        "lat": 37.8707002,
+        "lng": -122.2605518,
+        "addinfo": "Women's, Men's, and Gender Inclusive restrooms on Level C"
+    },
+    {
+        "title": "Wheeler Hall",
+        "school": "UC Berkeley",
+        "address": "Wheeler Hall, Berkeley, CA 94704",
+        "lat": 37.8713074,
+        "lng": -122.2591493,
+        "addinfo": "Women's, Men's, and Gender Inclusive restrooms on the 1st floor"
+    },
+    {
+        "title": "Physics North",
+        "school": "UC Berkeley",
+        "address": "University of California, Berkeley, Department of Physics, 366 Physics North MC 7300, Berkeley, CA 94720",
+        "lat": 37.8727862,
+        "lng": -122.2575016,
+        "addinfo": "Women's and Men's restrooms on the 1st floor"
+    },
+    {
+        "title": "Physics South",
+        "school": "UC Berkeley",
+        "address": "Leconte Hall, Berkeley, CA 94720",
+        "lat": 37.8724755,
+        "lng": -122.256824,
+        "addinfo": "Women's and Men's restrooms on the 1st floor"
+    },
+    {
+        "title": "Latimer Hall",
+        "school": "UC Berkeley",
+        "address": "University Dr, Berkeley, CA 94720",
+        "lat": 37.8731064,
+        "lng": -122.2559915,
+        "addinfo": "Women's, Men's, and Gender Inclusive restrooms on the 1st floor"
+    },
+    {
+        "title": "Stanley Hall",
+        "school": "UC Berkeley",
+        "address": "University Dr, Berkeley, CA 94720",
+        "lat": 37.873851,
+        "lng": -122.2563984,
+        "addinfo": "Women's and Men's restrooms on the 1st floor"
+    },
+    {
+        "title": "Social Science Building",
+        "school": "UC Berkeley",
+        "address": "Barrows Hall, Berkeley, CA 94720",
+        "lat": 37.8700546,
+        "lng": -122.25799,
+        "addinfo": "Women's and Men's restrooms on the Basement level; Gender Inclusive restroom on the 6th floor"
+    },
+    {
+        "title": "Etcheverry Hall",
+        "school": "UC Berkeley",
+        "address": "2505 Hearst Ave, Berkeley, CA 94709",
+        "lat": 37.8754950999999,
+        "lng": -122.2598101,
+        "addinfo": "Women's and Men's restrooms on the 3rd floor"
+    },
+    {
+        "title": "Sutardja Dai Hall",
+        "school": "UC Berkeley",
+        "address": "2594 Hearst Ave, Berkeley, CA 94720",
+        "lat": 37.8747924,
+        "lng": -122.2583104,
+        "addinfo": "Women's and Men's restrooms on the 2nd floor"
+    },
+    {
+        "title": "Evans Hall",
+        "school": "UC Berkeley",
+        "address": "University Dr, Berkeley, CA 94720",
+        "lat": 37.8736125,
+        "lng": -122.2575941,
+        "addinfo": "Women's and Mens restrooms on the Ground floor; Gender Inclusive restroom on the 1st floor"
+    },
+    {
+        "title": "Anthropology & Art Practice",
+        "school": "UC Berkeley",
+        "address": "Anthropology and Art Practice Building, Berkeley, CA 94720",
+        "lat": 37.869853,
+        "lng": -122.2551518,
+        "addinfo": "Women's and Men's restrooms on the 1st floor; Gender Inclusive restroom on the 3rd floor"
+    },
+    {
+        "title": "Main Quad",
+        "school": "Stanford University",
+        "address": "20 Palm Dr, Stanford, CA 94305",
+        "lat": 37.4293831,
+        "lng": -122.170044,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Bookstore",
+        "school": "Stanford University",
+        "address": "519 Lasuen Mall, Stanford, CA 94305",
+        "lat": 37.4248799,
+        "lng": -122.168605,
+        "addinfo": "Small Men & Women restroom at second floor of Bookstore. All-Gender Restroom located in basement"
+    },
+    {
+        "title": "Tresidder Union",
+        "school": "Stanford University",
+        "address": "Tresidder Memorial Union, 459 Lagunita Dr, Stanford, CA 94305",
+        "lat": 37.4243048,
+        "lng": -122.1708422,
+        "addinfo": "First floor restrooms"
+    },
+    {
+        "title": "Sand Hill Field",
+        "school": "Stanford University",
+        "address": "Stanford Athletics Sand Hill Fields, Oak Rd, Stanford, CA 94305",
+        "lat": 37.4324188,
+        "lng": -122.1838684,
+        "addinfo": "In the Sand Hill Restroom (14-025), by the Sand Hill Fields"
+    },
+    {
+        "title": "Angell Field South Bleacher",
+        "school": "Stanford University",
+        "address": "295 Galvez St, Stanford, CA 94305",
+        "lat": 37.4324927,
+        "lng": -122.1628968,
+        "addinfo": "In Angell Field South Bleacher (09-392), accessed from parking lot"
+    },
+    {
+        "title": "Masters Grove",
+        "school": "Stanford University",
+        "address": "Stanford, CA 94305",
+        "lat": 37.4327593,
+        "lng": -122.1567208,
+        "addinfo": "In Masters Grove Restroom (09-376) at the intersection of Churchill and Masters Mall"
+    },
+    {
+        "title": "Aztec Recreation (ARC)",
+        "school": "San Diego State University",
+        "address": "Aztec Recreation Center, 5301 55th St, San Diego, CA 92182",
+        "lat": 32.7741434,
+        "lng": -117.0755425,
+        "addinfo": "1st Floor: Women's Restroom, Women's Locker Room, All Gender Neutral Restrooms\n2nd Floor: All Gender Neutral Restrooms"
+    },
+    {
+        "title": "Adams Humanities (AH)",
+        "school": "San Diego State University",
+        "address": "Adams Humanities, San Diego, CA 92182",
+        "lat": 32.7735769,
+        "lng": -117.0713635,
+        "addinfo": "1st Floor, Rm. 1147\n2nd Floor, Rms. 2000W, 2132C, 2137\n3rd Floor, Rm. 3166\n4th Floor, Rm. 4204"
+    },
+    {
+        "title": "Administration (AD)",
+        "school": "San Diego State University",
+        "address": "5500 Campanile Dr, San Diego, CA 92182",
+        "lat": 32.7759998,
+        "lng": -117.0710112,
+        "addinfo": "Basement, Rm. 4\n1st Floor, Rms. 103B, 104, 124\n2nd Floor, Rm. 229\n3rd Floor, Rm. 330"
+    },
+    {
+        "title": "Administration Building (IVC)",
+        "school": "San Diego State University",
+        "address": "720 Heber Ave, Calexico, CA 92231",
+        "lat": 32.6723852,
+        "lng": -115.4918862,
+        "addinfo": "Rm. 102G"
+    },
+    {
+        "title": "Arena Meeting Center (AMC)",
+        "school": "San Diego State University",
+        "address": "Arena Meeting Center, San Diego, CA 92182",
+        "lat": 32.7738625,
+        "lng": -117.0758377,
+        "addinfo": "Rms. 190W1, 190U1"
+    },
+    {
+        "title": "Art North (ARTN)",
+        "school": "San Diego State University",
+        "address": "473 Avenue of the Arts, San Diego, CA 92115",
+        "lat": 32.7782221,
+        "lng": -117.0722115,
+        "addinfo": "1st Floor, Rms. 108, 108C, 108D\n2nd Floor, Rms.209, 209A\n3rd Floor, Rm. 307B\n4th Floor, Rm. 422"
+    },
+    {
+        "title": "Arts and Letters (AL)",
+        "school": "San Diego State University",
+        "address": "5500 Campanile Dr, San Diego, CA 92182",
+        "lat": 32.777681,
+        "lng": -117.0732222,
+        "addinfo": "1st Floor, Rms. 103B, 112\n2nd Floor, Rm. 241\n3rd Floor, Rms. 345, 399\n4th Floor, Rm. 445\n5th Floor, Rm. 545\n6th Floor, Rm. 635"
+    },
+    {
+        "title": "Atkinson Hall",
+        "school": "San Diego State University",
+        "address": "San Diego, CA 92115",
+        "lat": 32.7760456,
+        "lng": -117.0693214,
+        "addinfo": "1st Floor, Rms. 100U1, 100W1\n2nd Floor, Rm. 200W"
+    },
+    {
+        "title": "Bioscience Center (BSCI)",
+        "school": "San Diego State University",
+        "address": "Donald P. Shiley Bioscience Center, San Diego, CA 92182",
+        "lat": 32.7779385,
+        "lng": -117.0710555,
+        "addinfo": "1st Floor, Rm. 1000W\n2nd Floor, Rm. 2000W\n3rd Floor, Rm. 3000W"
+    },
+    {
+        "title": "Brawley Campus",
+        "school": "San Diego State University",
+        "address": "560 CA-78, Brawley, CA 92227",
+        "lat": 32.9797456,
+        "lng": -115.4875704,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Calpulli Center (CLP)",
+        "school": "San Diego State University",
+        "address": "5700 Hardy Ave, San Diego, CA 92115",
+        "lat": 32.7728731,
+        "lng": -117.0734624,
+        "addinfo": "1st Floor, Rm. 1002, 1440\n2nd Floor, Rm. 2002\n3rd Floor, Rm. 3002"
+    },
+    {
+        "title": "Chemical Sciences Lab (CSL)",
+        "school": "San Diego State University",
+        "address": "Chemical Sciences Laboratory, 5500 Campanile Dr, San Diego, CA 92182",
+        "lat": 32.7767281,
+        "lng": -117.0686971,
+        "addinfo": "1st Floor, Rm. 111\n2nd Floor, Rm. 217\n3rd Floor, Rm. 317\n4th Floor, Rm. 411\n5th Floor, Rm. 509"
+    },
+    {
+        "title": "Comminucations (COM)",
+        "school": "San Diego State University",
+        "address": "State University, 5500 Campanile Dr, San Diego, CA 92182",
+        "lat": 32.7764813,
+        "lng": -117.07278,
+        "addinfo": "1st Floor, Rms. 104, 118"
+    },
+    {
+        "title": "Conrad Prebys Aztec Student Union",
+        "school": "San Diego State University",
+        "address": "6075 Aztec Circle Dr, San Diego, CA 92182",
+        "lat": 32.7738134,
+        "lng": -117.0696477,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Dramatic Arts (DA)",
+        "school": "San Diego State University",
+        "address": "5500 Campanile Dr Dramatic Arts, San Diego, CA 92182",
+        "lat": 32.7750891,
+        "lng": -117.0724851,
+        "addinfo": "Basement, Rm. 9A\n1st Floor, Rms. 104, 115\n2nd Floor, Rm. 219"
+    },
+    {
+        "title": "ENS 700",
+        "school": "San Diego State University",
+        "address": "5801 Aztec Walk, San Diego, CA 92182",
+        "lat": 32.7736352,
+        "lng": -117.0728827,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Engineering & Interdisciplinary Sciences (EIS)",
+        "school": "San Diego State University",
+        "address": "Centennial Plaza, San Diego, CA 92182",
+        "lat": 32.7770028,
+        "lng": -117.0699481,
+        "addinfo": "Lower Level, North, Rm. 1G1, 1W1, 1W2\n1st Floor, Rm. 100W1\n2nd Floor, Rm. 200W1\n3rd Floor, Rm. 300W1"
+    },
+    {
+        "title": "Engineering (ENG)",
+        "school": "San Diego State University",
+        "address": "648 Aztec Circle Dr, San Diego, CA 92115",
+        "lat": 32.7779638,
+        "lng": -117.0705238,
+        "addinfo": "1st Floor, Rm. 106\n2nd Floor, Rm. 222\n3rd Floor, Rm. 322\n4th Floor, Rm. 419"
+    },
+    {
+        "title": "Exercise & Nutritional Science",
+        "school": "San Diego State University",
+        "address": "Exercise and Nutritional Sciences, San Diego, CA 92182",
+        "lat": 32.7749025,
+        "lng": -117.0733862,
+        "addinfo": "2nd Floor, Rms. 212, 292A\n3rd Floor, Rm. 381A"
+    },
+    {
+        "title": "Exercise & Nutritional Sciences Annex (ENSX)",
+        "school": "San Diego State University",
+        "address": "Exercise & Nutritional Sciences Annex, San Diego, CA 92182",
+        "lat": 32.7751863,
+        "lng": -117.0735701,
+        "addinfo": "1st Floor, Rm., 105"
+    },
+    {
+        "title": "Extended Studies (ESC)",
+        "school": "San Diego State University",
+        "address": "5701 Hardy Ave, San Diego, CA 92115",
+        "lat": 32.772465,
+        "lng": -117.0735396,
+        "addinfo": "1st Floor, Rm. 100W\n2nd Floor, Rm. 200W\n3rd Floor, Rm. 300W\n4th Floor, Rm. 400W "
+    },
+    {
+        "title": "Facilities Services (FS)",
+        "school": "San Diego State University",
+        "address": "Facilities Services, Aztec Circle Dr, San Diego, CA 92182",
+        "lat": 32.7784807,
+        "lng": -117.0702531,
+        "addinfo": "1st Floor, Rm. 104"
+    },
+    {
+        "title": "Fowler Athletics Center",
+        "school": "San Diego State University",
+        "address": "Fowler Athletic Center, 5302 55th St, San Diego, CA 92182",
+        "lat": 32.7736901,
+        "lng": -117.0770178,
+        "addinfo": "1st Floor, Rm. 1018, 1100A, 1300B, 1300C, 1350B\n4th Floor, Rm. 4018"
+    },
+    {
+        "title": "Gateway Center/CES (GC)",
+        "school": "San Diego State University",
+        "address": "Gateway Center, 5500 Campanile Dr, San Diego, CA 92182",
+        "lat": 32.7722501,
+        "lng": -117.0723289,
+        "addinfo": "1st Floor, Rm. 1510, 1522\n2nd Floor, Rm. 2520\n3rd Floor, Rm. 3504\n4th Floor, Rm. 4508 "
+    },
+    {
+        "title": "Geology Math and Computer Science (GMCS)",
+        "school": "San Diego State University",
+        "address": "Geology Mathematics Computer Science, San Diego, CA 92182",
+        "lat": 32.7768233,
+        "lng": -117.0693407,
+        "addinfo": "1st Floor, Rm. 119\n2nd Floor, Rm. 219\n3rd Floor, Rm.  317\n4th Floor, Rm.  417 \n5th Floor, Rm.  527\n6th Floor, Rm.  605"
+    },
+    {
+        "title": "Hardy Tower (HT)",
+        "school": "San Diego State University",
+        "address": "5799 Campanile Mall, San Diego, CA 92182",
+        "lat": 32.7771404,
+        "lng": -117.0721495,
+        "addinfo": "Ground Floor, Rm. 71A\n1st Floor, Rm. 150 "
+    },
+    {
+        "title": "Hepner Hall (HH)",
+        "school": "San Diego State University",
+        "address": "Campanile Mall, San Diego, CA 92182",
+        "lat": 32.7761556,
+        "lng": -117.0716997,
+        "addinfo": "1st Floor, Rm. 151, 151A\n2nd Floor, Rm. 201A"
+    },
+    {
+        "title": "Lamden Hall (LH)",
+        "school": "San Diego State University",
+        "address": "San Diego, CA 92182",
+        "lat": 32.7749252,
+        "lng": -117.068283,
+        "addinfo": "1st Floor, Rm. 122\n2nd Floor, Rm. 204, 204A, 244\n3rd Floor, Rm. 303, 307, 335\n4th Floor, Rm. 402, 406, 438"
+    },
+    {
+        "title": "Life Sciences North (LSN)",
+        "school": "San Diego State University",
+        "address": "Avenue of the Arts, San Diego, CA 92115",
+        "lat": 32.7777244,
+        "lng": -117.0715877,
+        "addinfo": "1st Floor, Rm. 103, 108A\n2nd Floor, Rm. 234\n3rd Floor, Rm. 330\n4th Floor, Rm. 425"
+    },
+    {
+        "title": "Life Sciences South (LSS)",
+        "school": "San Diego State University",
+        "address": "2200, Campanile Dr, San Diego, CA 92182",
+        "lat": 32.7774662,
+        "lng": -117.071149,
+        "addinfo": "2nd Floor, Rm. 240\n3rd Floor, Rm. 340"
+    },
+    {
+        "title": "Love Library (LL)",
+        "school": "San Diego State University",
+        "address": "Love Library, San Diego, CA 92182",
+        "lat": 32.7752486,
+        "lng": -117.0715474,
+        "addinfo": "Basement, Rm. 24C, 24D\n1st Floor, Rm. 100W\n2nd Floor, Rm. 200W\n3rd Floor, Rm. 300W\n4th Floor, Rm. 400W1, 400W2\n5th Floor, Rm. 500W "
+    },
+    {
+        "title": "Love Library Addition (LLA)",
+        "school": "San Diego State University",
+        "address": "5500 Canyon Crest Dr, San Diego, CA 92115",
+        "lat": 32.7752631,
+        "lng": -117.0704134,
+        "addinfo": "Basement, Rm. 54\n1st Floor, Rm. 1111, 1112\n2nd Floor, Rm. 2211, 2214"
+    },
+    {
+        "title": "Manchester Hall (MH)",
+        "school": "San Diego State University",
+        "address": "Manchester Hall, San Diego, CA 92182",
+        "lat": 32.7747102,
+        "lng": -117.0703521,
+        "addinfo": "3rd Floor, Rm. 3349\n4th Floor, Rm. 4449"
+    },
+    {
+        "title": "Music (MU)",
+        "school": "San Diego State University",
+        "address": "5500 Campanile Dr, San Diego, CA 92182",
+        "lat": 32.7744142,
+        "lng": -117.0725732,
+        "addinfo": "1st Floor, Rm. 105A,109\n2nd Floor, Rm. 244A, 259A"
+    },
+    {
+        "title": "Nasatir Hall (NH)",
+        "school": "San Diego State University",
+        "address": "San Diego, CA 92182",
+        "lat": 32.7771457,
+        "lng": -117.0736691,
+        "addinfo": "2nd Floor, Rm. 200R1, 200R2\n3rd Floor, Rm. 300R1, 300R2"
+    },
+    {
+        "title": "Physics",
+        "school": "San Diego State University",
+        "address": "Planetarium Ct, San Diego, CA 92182",
+        "lat": 32.7766853,
+        "lng": -117.0702762,
+        "addinfo": "2nd Floor, Rm. 252"
+    },
+    {
+        "title": "Physics-Astronomy",
+        "school": "San Diego State University",
+        "address": "Student Services West, 5500 Campanile Dr, San Diego, CA 92182",
+        "lat": 32.7764735,
+        "lng": -117.0710246,
+        "addinfo": "1st Floor, Rm. 117A"
+    },
+    {
+        "title": "Pterson Gym",
+        "school": "San Diego State University",
+        "address": "\nPlaza Deportes, San Diego, CA 92182",
+        "lat": 32.773972,
+        "lng": -117.0766575,
+        "addinfo": "1st Floor, Rms. 183, 1512B, 1515"
+    },
+    {
+        "title": "Rec. Field 103",
+        "school": "San Diego State University",
+        "address": "5700 Canyon Crest Dr, San Diego, CA 92115",
+        "lat": 32.7764392,
+        "lng": -117.0750138,
+        "addinfo": "Rms. 104, 106"
+    },
+    {
+        "title": "Speech, Language & Hearing",
+        "school": "San Diego State University",
+        "address": "Speech, Language and Hearing Sciences, 5245 Campanile Dr, San Diego, CA 92182",
+        "lat": 32.7721455,
+        "lng": -117.0714321,
+        "addinfo": "1st Floor, Rms. 105, 106, 156\n2nd Floor, Rms. 202, 203, 252"
+    },
+    {
+        "title": "Sports Deck",
+        "school": "San Diego State University",
+        "address": "5490 Montezuma Rd, San Diego, CA 92182",
+        "lat": 32.770987,
+        "lng": -117.0771077,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Storm Hall (SH)",
+        "school": "San Diego State University",
+        "address": "San Diego, CA 92182",
+        "lat": 32.777148,
+        "lng": -117.0740069,
+        "addinfo": "1st Floor, Rm. 100W\n2nd Floor, Rm. 200W\n3rd Floor, Rm. 300W"
+    },
+    {
+        "title": "Student Center",
+        "school": "San Diego State University",
+        "address": "5500 Canyon Crest Dr, San Diego, CA 92182",
+        "lat": 32.7761294,
+        "lng": -117.0762869,
+        "addinfo": "Rm. 9"
+    },
+    {
+        "title": "Student Services East (SSE)",
+        "school": "San Diego State University",
+        "address": "Centennial Plaza, San Diego, CA 92182",
+        "lat": 32.7746381,
+        "lng": -117.0688183,
+        "addinfo": "1st Floor, Rm. 1300\n2nd Floor, Rm. 2300\n3rd Floor, Rm. 300W"
+    },
+    {
+        "title": "Student Services West (SSW)",
+        "school": "San Diego State University",
+        "address": "Student Services West, 5500 Campanile Dr, San Diego, CA 92182",
+        "lat": 32.7747307,
+        "lng": -117.0693867,
+        "addinfo": "1st Floor, Rms. 1530Q, 1618\n2nd Floor, Rms. 2546, 2604\n3rd Floor, Rm. 3604"
+    },
+    {
+        "title": "Tennis Center",
+        "school": "San Diego State University",
+        "address": "Plaza Deportes, San Diego, CA 92182",
+        "lat": 32.7740028,
+        "lng": -117.0802111,
+        "addinfo": "Rm. 107"
+    },
+    {
+        "title": "The KPBS Conrad Prebys Media Complex at Copley Center",
+        "school": "San Diego State University",
+        "address": "Copley Telecommunications Center, 5200 Campanile Dr, San Diego, CA 92182",
+        "lat": 32.772067,
+        "lng": -117.0726806,
+        "addinfo": "1st Floor, Rms. 1104, 1145, 1173, 1179, 1179A, 1179B\n2nd Floor, Rms. 2201A, 2222A"
+    },
+    {
+        "title": "The Pride Center",
+        "school": "San Diego State University",
+        "address": "5141 Campanile Mall Dr, San Diego, CA 92115",
+        "lat": 32.7714407,
+        "lng": -117.0716569,
+        "addinfo": "Rm. 5"
+    },
+    {
+        "title": "Tony Gywnn Stadium (TGS)",
+        "school": "San Diego State University",
+        "address": "Plaza Deportes, San Diego, CA 92182",
+        "lat": 32.774026,
+        "lng": -117.0788554,
+        "addinfo": "Rms. 101, 134"
+    },
+    {
+        "title": "Transit Center",
+        "school": "San Diego State University",
+        "address": "San Diego, CA 92115",
+        "lat": 32.7730452,
+        "lng": -117.0715534,
+        "addinfo": "Mezzine Level, Rm. M203"
+    },
+    {
+        "title": "Women's Resource Center",
+        "school": "San Diego State University",
+        "address": "5121 Campanile Dr, San Diego, CA 92115",
+        "lat": 32.7713102,
+        "lng": -117.0716511,
+        "addinfo": "Rm. 12"
+    }
+]
