@@ -1,0 +1,8 @@
+.modelContainer{
+  border: solid 2px;
+  max-width: 400px;
+  max-height: 1000px;
+  height: 100%;
+  width: 100%;
+  margin-left: 1rem;
+}

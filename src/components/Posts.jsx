@@ -1,3 +1,4 @@
+import './Posts.css'
 import { collection, onSnapshot, orderBy, query } from 'firebase/firestore';
 import React, {useState, useEffect} from 'react';
 import { auth, db } from '../firebaseConfig';
@@ -34,18 +35,18 @@ export default function Posts() {
           <p>No articles found!</p>
         ):(
           posts.map(({id, title, description, imageUrl, createdAt, createdBy, userId, likes, comments}) => (
-            <div className='border mt-2 p-2 bg-light' key={id}>
+            <div className='mb-3 p-2 bg-light postContainer' key={id}>
               <div className="row">
                 <div className="col-3">
                   <Link to={`/post/${id}`}>
-                    <img src = {imageUrl} alt = 'title' style={{height:120, width:120}}/>
+                    <img className="postImage" src = {imageUrl} alt = 'title'/>
                   </Link>
                 </div>
                 <div className="col-9 ps-3">
                   <div className="row">
                     <div className="col-6">
                       {createdBy && (
-                        <span className="badge bg-primary">{createdBy}</span>
+                        <span className="postAuthor">{createdBy}</span>
                       )}
                     </div>
                     <div className="col-6 d-flex flex-row-reverse">
@@ -56,24 +57,22 @@ export default function Posts() {
                       }
                     </div>
                   </div>
-                  <h3>{title}</h3>
-                  <p>{createdAt.toDate().toDateString()}</p>
-                  <h5>{description}</h5>
+                  <h3 className="postTitle">{title}</h3>
+                  <p className="postDate">{createdAt.toDate().toDateString()}</p>
+                  <p className="postDescript">{description}</p>
 
                   <div className="d-flex flex-row-reverse">
                     {user && <LikePost id={id} likes={likes} />}
                     <div className="pe-2">
-                      <p>{likes?.length} likes</p>
+                      <p class="postLikes">{likes?.length} likes</p>
                     </div>
+                    {
+                      comments && comments.length > 0 && (
+                        <div className="pe-2">
+                          <p class="postComments">{comments?.length} comments</p>
+                        </div>
+                    )}
                   </div>
-                  {
-                    comments && comments.length > 0 && (
-                      <div className="pe-2">
-                        <p>{comments?.length} comments</p>
-                      </div>
-                    )
-                  }
-                  
                 </div>
               </div>
             </div>

@@ -1,3 +1,4 @@
+import './ProductsScreen.css'
 import React, {useState} from "react";
 import * as tmImage from "@teachablemachine/image";
 import * as tf from "@tensorflow/tfjs";
@@ -35,7 +36,7 @@ export default function ProductsScreen() {
 
     // Convenience function to setup a webcam
     const flip = true; // whether to flip the webcam
-    webcam = new tmImage.Webcam(200, 200, flip); // width, height, flip
+    webcam = new tmImage.Webcam(350, 350, flip); // width, height, flip
     await webcam.setup(); // request access to the webcam
     await webcam.play();
     window.requestAnimationFrame(loop);
@@ -91,11 +92,10 @@ export default function ProductsScreen() {
       <Navbar />
       <div className="container-fluid">
         <div className="row flex-nowrap">
-          <div className="col-auto col-md-3 col-xl-2 px-0">
+          <div className="col-auto px-0">
             <SideNavbar/>
           </div>
-          <div className="col-md-9 ms-sm-auto col-xl-10">
-            <div>Teachable Machine Image Model</div>
+          <div className="col-md-4 px-2 px-md-5 modelContainer">
             <button type="button" onClick={() => start(URL.products)}>
               Menstrual Products
             </button>

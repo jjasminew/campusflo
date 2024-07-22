@@ -1,3 +1,4 @@
+import './AddPost.css'
 import React, { useState } from 'react';
 import { Timestamp, collection, addDoc } from 'firebase/firestore';
 import { ref, uploadBytesResumable, getDownloadURL } from 'firebase/storage';
@@ -94,42 +95,42 @@ export default function AddPost() {
   }
   
   return (
-    <div className='border p-3 mt-3 bg-light' style={{position:"fixed"}}>
+    <div className='p-3 mt-3 createContainer'>
       {
         !user?
         <>
           <h2>
-            <Link to='/login'>Login to create article</Link>
+            <Link className="loginPostTxt" to='/login'>Login to create a post</Link>
           </h2>
-          Don't have an account? <Link to='/signup'>Sign Up</Link>
+          <p className="signupPostTxt">Don't have an account? <Link to='/signup' className="signupPostTxt">Sign Up</Link></p>
         </>
         :<>
-          <h2>Create post</h2>
-          <label htmlFor="">Title</label>
+          <h2 className="createPostTxt">Create post</h2>
+          <label htmlFor="" className="inputTxt">Title</label>
           <input 
             type="text" 
             name="title" 
-            className="form-control" 
+            className="form-control inputAlign" 
             value={formData.title}
             onChange={(e)=>handleChange(e)}
           />
 
           {/* description */}
-          <label htmlFor="">Description</label>
+          <label htmlFor="" className="inputTxt">Description</label>
           <textarea 
             name="description" 
-            className="form-control" 
+            className="form-control inputAlign" 
             value={formData.description}
             onChange={(e)=>handleChange(e)}
           />
 
           {/* image */}
-          <label htmlFor="">Image</label>
+          <label htmlFor="" className="inputTxt">Image</label>
           <input 
             type="file" 
             name="image" 
             accept="image/*" 
-            className="form-control"
+            className="form-control inputAlign"
             onChange={(e)=>handleImageChange(e)}
           />
 

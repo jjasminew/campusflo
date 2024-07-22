@@ -1,4 +1,30 @@
+.locatorTxtAlign{
+  margin-top: 10px;
+}
+
+.locatorTxt{
+  color: #C2242D;
+}
+
+.locatorSubTxt{
+  color: #C2242D;
+  font-size: 20px;
+}
+
 .leaflet-container{
-  height: 600px;
+  max-height: 500px;
+  height: 100%;
   width:100%;
+}
+
+.locateBtn{
+  background-color: #C2242D;
+  font-size: 16px;
+  color: white;
+  border-radius: 10px;
+  border-color: transparent;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }

@@ -10,19 +10,19 @@ export default function CommunityScreen() {
       <Navbar />
       <div className="container-fluid">
         <div className="row flex-nowrap">
-          <div className="col-auto col-md-3 col-xl-2 px-0">
+          <div className="col-auto px-0">
             <SideNavbar />
           </div>
           <div className="row">
-            <div className='col-md-8'>
-              <Posts />
-            </div>
-            <div className='col-md-4'>
+            <div className='col-auto addpost-container'>
               <AddPost />
+            </div>
+            <div className='col-md-7 mt-3 scrollable-posts posts-container'>
+              <Posts />
             </div>
           </div>
         </div>
       </div>
     </>
-  )
+  ) 
 }

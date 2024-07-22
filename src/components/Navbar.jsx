@@ -1,3 +1,4 @@
+import './Navbar.css'
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { useAuthState } from 'react-firebase-hooks/auth';
@@ -20,14 +21,14 @@ export default function Navbar(){
             !user?
             <>
               <h2>
-                <button><Link to='/login'>Log In</Link></button>
+                <button className='loginBtn'><Link to='/login' className='loginTxt'>Login</Link></button>
               </h2>
             </>
             :<>
-              <span className='pe-4'>
+              <span className='signedInTxt pe-4'>
                   Signed in as {user.displayName || user.email}
                 </span>
-                <button className='btn btn-primary btn-sm me-3' onClick={()=>{signOut(auth)}}>Logout</button>
+                <button className='logoutBtn' onClick={()=>{signOut(auth)}}>Logout</button>
             </>   
           }
         </div>

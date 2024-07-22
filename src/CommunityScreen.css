@@ -1,0 +1,14 @@
+@media (min-width: 768px) {
+  .posts-container {
+    order: 1;
+  }
+  .addpost-container {
+    order: 2;
+  }
+}
+
+.scrollable-posts {
+  height: calc(100vh - 80px); 
+  overflow-y: auto;
+}
+

@@ -1,0 +1,25 @@
+.signupContainer{
+  border-radius: 15px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.inputArea{
+  margin-bottom: 15px;
+}
+
+.submitBtn{
+  background-color: #F7DCDC;
+  color: black;
+  border-radius: 8px;
+  border-color: transparent;
+  width: 100%; 
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+.logIn{
+  font-size: 14px;
+  text-align: center;
+}

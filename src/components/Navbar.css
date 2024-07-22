@@ -1,0 +1,33 @@
+.loginBtn{
+  background-color: white;
+  font-size: 16px;
+  color: black;
+  border-radius: 10px;
+  border-color: transparent;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.loginTxt{
+  text-decoration: none;
+  color: black;
+}
+
+.signedInTxt{
+  font-size: 16px;
+  color: black;
+}
+
+.logoutBtn{
+  background-color: white;
+  font-size: 16px;
+  color: black;
+  border-radius: 10px;
+  border-color: transparent;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

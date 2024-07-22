@@ -77,10 +77,15 @@ export default function LocatorScreen() {
       <Navbar/>
       <div className="container-fluid">
         <div className="row flex-nowrap">
-          <div className="col-auto col-md-3 col-xl-2 px-0">
+          <div className="col-auto px-0">
+          {/* <div className="col-auto col-md-3 col-xl-2 px-0"> */}
             <SideNavbar />
           </div>
-          <div className="col-md-9 ms-sm-auto col-xl-10">
+          <div className="col-md-9 col-xl-10 px-2 px-md-5">
+            <div className="locatorTxtAlign">
+              <h1 className="locatorTxt">Welcome,</h1>
+              <p className="locatorSubTxt">Explore locations near you providing free menstrual products on your campus.</p>
+            </div>
             <MapContainer center={[center.lat, center.lng]} zoom={13} scrollWheelZoom={true} ref={mapRef}>
               <TileLayer
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -129,7 +134,7 @@ export default function LocatorScreen() {
       
             <div className="row my-4">
               <div className="col d-flex justify-content-center">
-                <button className="btn btn-primary" onClick={showMyLocation}>
+                <button className="locateBtn" onClick={showMyLocation}>
                   Locate Me
                 </button>
               </div>

@@ -1,0 +1,24 @@
+.createContainer{
+  background-color: #C2242D;
+  border-radius: 10px;
+}
+
+.loginPostTxt{
+  color: white;
+}
+
+.signupPostTxt{
+  color: white;
+}
+
+.createPostTxt{
+  color: white;
+}
+
+.inputTxt{
+  color: white;
+}
+
+.inputAlign{
+  margin-bottom: 20px;
+}
