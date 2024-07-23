@@ -39,7 +39,7 @@ export default function Post() {
                 <div className='d-flex flex-row-reverse'>
                   {user && <LikePost id={id} likes={post.likes} />}
                   <div className="pe-2">
-                    <p>{post.likes.length}</p>
+                    <p>{post.likes.length} likes</p>
                   </div>
                 </div>
                 {/* comment section */}

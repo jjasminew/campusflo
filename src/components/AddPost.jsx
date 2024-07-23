@@ -95,7 +95,7 @@ export default function AddPost() {
   }
   
   return (
-    <div className='p-3 mt-3 createContainer'>
+    <div className='p-3 createContainer'>
       {
         !user?
         <>

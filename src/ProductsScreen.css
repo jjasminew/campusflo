@@ -1,8 +1,62 @@
 .modelContainer{
-  border: solid 2px;
-  max-width: 400px;
-  max-height: 1000px;
-  height: 100%;
-  width: 100%;
-  margin-left: 1rem;
+  border-radius: 10px;
+  background-color: #F7DCDC;
+  height: 70vh;
+  /* height: 100%;
+  width: 100%; */
+}
+
+.buttonsAlign{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.webcamAlign{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.informContainer{
+  border-radius: 10px;
+  background-color: #F7DCDC;
+  height: 70vh;
+  /* height: 100%;
+  width: 100%; */
+}
+
+.infoHeading{
+  text-align: center;
+  font-size: 25px;
+  color: #C2242D;
+}
+
+.classifierTitle{
+  text-align: center;
+  font-size: 25px;
+  color: #C2242D;
+}
+
+.productsBtn{
+  background-color: white;
+  font-size: 16px;
+  color: black;
+  border-radius: 10px;
+  border-color: transparent;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.pillsBtn{
+  background-color: white;
+  font-size: 16px;
+  color: black;
+  border-radius: 10px;
+  border-color: transparent;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }

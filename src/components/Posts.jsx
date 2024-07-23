@@ -32,7 +32,7 @@ export default function Posts() {
     <div>
       {
         posts.length === 0 ? ( /* checks how many posts there are */
-          <p>No articles found!</p>
+          <p>No posts found!</p>
         ):(
           posts.map(({id, title, description, imageUrl, createdAt, createdBy, userId, likes, comments}) => (
             <div className='mb-3 p-2 bg-light postContainer' key={id}>

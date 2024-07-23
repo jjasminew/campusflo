@@ -13,12 +13,14 @@ export default function CommunityScreen() {
           <div className="col-auto px-0">
             <SideNavbar />
           </div>
-          <div className="row">
-            <div className='col-auto addpost-container'>
-              <AddPost />
-            </div>
-            <div className='col-md-7 mt-3 scrollable-posts posts-container'>
-              <Posts />
+          <div className="col">
+            <div className="row d-flex justify-content-center">
+              <div className="col-12 col-md-4 mt-3 addpost-container">
+                <AddPost />
+              </div>
+              <div className="col-12 col-md-7 mt-3 scrollable-posts posts-container">
+                <Posts />
+              </div>
             </div>
           </div>
         </div>
