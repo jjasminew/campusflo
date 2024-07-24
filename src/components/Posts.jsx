@@ -35,7 +35,7 @@ export default function Posts() {
           <p>No posts found!</p>
         ):(
           posts.map(({id, title, description, imageUrl, createdAt, createdBy, userId, likes, comments}) => (
-            <div className='mb-3 p-2 bg-light postContainer' key={id}>
+            <div className='mb-3 p-2 postContainer' key={id}>
               <div className="row">
                 <div className="col-3">
                   <Link to={`/post/${id}`}>

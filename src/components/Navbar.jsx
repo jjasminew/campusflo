@@ -21,7 +21,7 @@ export default function Navbar(){
             !user?
             <>
               <h2>
-                <button className='loginBtn'><Link to='/login' className='loginTxt'>Login</Link></button>
+                <Link style={{textDecoration: 'none'}} to='/login'><div className='loginBtn'>Login</div></Link>
               </h2>
             </>
             :<>

@@ -1,14 +1,20 @@
-.modelContainer{
+.modelContainer {
   border-radius: 10px;
-  background-color: #F7DCDC;
-  height: 70vh;
-  /* height: 100%;
-  width: 100%; */
+  background: linear-gradient(to bottom, #FDF4F4, #F4B6B6);
+  height: 80vh;
+  border: 1.5px solid #581518;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+
+.modelContainer > *:last-child {
+  margin-top: auto;
 }
 
 .buttonsAlign{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 
 .webcamAlign{
@@ -17,46 +23,83 @@
   flex-wrap: wrap;
 }
 
+#label-container{
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#info-container{
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
 .informContainer{
+  background: linear-gradient(to bottom, #FDF4F4, #F4B6B6);
   border-radius: 10px;
-  background-color: #F7DCDC;
-  height: 70vh;
-  /* height: 100%;
-  width: 100%; */
+  border: 1.5px solid #581518;
+  height: 80vh;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+}
+
+.productLabel{
+  text-align: center;
+  font-size: 30px;
+  font-family: "Belanosima", sans-serif;
+}
+
+.infoKey{
+  color: #C2242D;
+  font-family: "Manrope", sans-serif;
+}
+
+.infoDefaultTxt{
+  text-align: center;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
 }
 
 .infoHeading{
+  margin-top: 20px;
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
   color: #C2242D;
+  font-family: "Belanosima", sans-serif;
 }
 
 .classifierTitle{
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
   color: #C2242D;
+  font-family: "Belanosima", sans-serif;
 }
 
 .productsBtn{
   background-color: white;
-  font-size: 16px;
-  color: black;
+  font-size: 15px;
+  color: #C2242D;
   border-radius: 10px;
-  border-color: transparent;
+  border: 1.5px solid #C2242D;
   padding-left: 25px;
   padding-right: 25px;
   padding-top: 5px;
   padding-bottom: 5px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
 }
 
 .pillsBtn{
   background-color: white;
-  font-size: 16px;
-  color: black;
+  font-size: 15px;
+  color:  #C2242D;
   border-radius: 10px;
-  border-color: transparent;
+  border: 1.5px solid #C2242D;
   padding-left: 25px;
   padding-right: 25px;
   padding-top: 5px;
   padding-bottom: 5px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
 }

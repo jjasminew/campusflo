@@ -1,0 +1,29 @@
+.commentTitle{
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+}
+
+.loginBadge{
+  background-color: #581518;
+  margin-right: 5px;
+  font-size: 12px;
+  font-family: "Belanosima", sans-serif;
+  font-weight: 400;
+  color: white;
+  border-radius: 5px;
+}
+
+.logoutBadge{
+  background-color: #C2242D;
+  margin-right: 5px;
+  font-size: 12px;
+  font-family: "Belanosima", sans-serif;
+  font-weight: 400;
+  color: white;
+  border-radius: 5px;
+}
+
+.commentBox{
+  border: 1px solid #581518;
+  border-radius: 10px;
+}

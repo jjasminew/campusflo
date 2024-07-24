@@ -4,8 +4,8 @@
   width: 100%;
   height: 100%;
   border-radius: 10px;
-  border: solid 2.5px;
-  border-color: #F7DCDC;
+  border: solid 1.5px #581518;
+  background: linear-gradient(to bottom, #FBE7E7, #FDF8F8);
 }
 
 .postImage{
@@ -22,15 +22,22 @@
   font-size: 12px;
   padding: 4px;
   font-weight: bold;
+  font-family: "Belanosima", sans-serif;
+  /* font-family: "Edu AU VIC WA NT Hand", cursive; */
+  font-weight: 400;
 }
 
 .postTitle{
+  font-family: "Belanosima", sans-serif;
+  font-weight: 400;
   margin-top: 10px;
-  font-size: 24px;
+  font-size: 30px;
 }
 
 .postDate{
   font-size: 12px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
 }
 
 .postDescript {
@@ -38,5 +45,19 @@
   text-overflow: ellipsis; /* Adds an ellipsis (...) to indicate there is more text */
   white-space: nowrap;     /* Prevents text from wrapping to a new line */
   padding-right: 20px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
 }
 
+.postLikes{
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.postComments{
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}

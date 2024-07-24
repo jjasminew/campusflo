@@ -49,6 +49,7 @@ export default function LogInScreen(){
           <br/>
           <button className='submitBtn' onClick={handleLogIn}>Log In</button>
           <p className='signUp'>Don't have an account? <Link to='/signup'>Sign Up</Link></p>
+          <p className='signUp'><Link to='/locator'>Continue as Guest</Link></p>
         </div>
       </div>
     </div>

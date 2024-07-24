@@ -1,0 +1,38 @@
+.postBox{
+  border-radius: 10px;
+  background-color: #F7DCDC;
+  border: solid 1.5px #581518;
+  background: linear-gradient(to bottom, #FBE7E7, #FDF8F8);
+}
+
+.post2Title{
+  font-family: "Belanosima", sans-serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.post2Author{
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+}
+
+.post2Date{
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+}
+
+.post2Txt{
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.post2Likes{
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+}
+
+.post2Comments{
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+}

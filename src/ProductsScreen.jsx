@@ -14,7 +14,7 @@ export default function ProductsScreen() {
 
   const additionalInfo = {
     "Pad": {
-      "How to use": "Wear inside underwear and secure with adhesive strips on the pad.",
+      "How to use": "Wear inside underwear and secure with adhesive strips on the pad. Replace every 3-4 hours.",
       "What it's made of": "Combination of cotton, synthetic fibers, and absorbent polymers.",
       "Pros": "Easy to use, available in a range of absorbency levels, and suitable for overnight use.",
       "Cons": "May feel bulky, can be noticeable under clothing, and may cause irritation for some people.",
@@ -77,6 +77,7 @@ export default function ProductsScreen() {
 
     document.getElementById("webcam-container").innerHTML = '';
     document.getElementById("webcam-container").appendChild(webcam.canvas); // append elements to the DOM
+    document.getElementById("label-container").innerHTML = '';
     labelContainer = document.getElementById("label-container");
     infoContainer = document.getElementById("info-container");
     for (let i = 0; i < maxPredictions; i++) { // and class labels
@@ -95,7 +96,7 @@ export default function ProductsScreen() {
   function formatAdditionalInfo(info) {
     if (info) {
       return Object.entries(info)
-        .map(([key, value]) => `<p><strong>${key}:</strong> ${value}</p>`)
+        .map(([key, value]) => `<p><strong class="infoKey">${key}:</strong> ${value}</p>`)
         .join(''); // Join the array of strings into a single HTML string
     } else {
       return '<div>No information available.</div>';
@@ -124,7 +125,7 @@ export default function ProductsScreen() {
     const bestPrediction = prediction[maxIndex]; //finding best prediction
     const bestClassName = bestPrediction.className; //getting class name
     const additionalText = additionalInfo[bestClassName]; //getting the additional info
-    infoContainer.innerHTML = `<h1>${bestClassName}</h1>` + formatAdditionalInfo(additionalText); //displaying the info
+    infoContainer.innerHTML = `<h1 class="productLabel">${bestClassName}</h1>` + formatAdditionalInfo(additionalText); //displaying the info
   }
 
   const start = (urlKey) => {
@@ -146,22 +147,26 @@ export default function ProductsScreen() {
                  <Popup />
                 </div>
                 <h2 className="classifierTitle">Menstrual Product Classifier</h2>
-                <div className="buttonsAlign">
-                  <button className="productsBtn" type="button" onClick={() => start(URL.products)}>
-                    Menstrual Products
-                  </button>
-                  <button className="pillsBtn" type="button" onClick={() => start(URL.pills)}>
-                    Menstrual Pills
-                  </button>
-                </div>
                 <div className="webcamAlign">
                   <div className="mt-4" id="webcam-container"></div>
-                  <div id="label-container"></div>
+                  <div id="label-container">
+                    <p class="infoDefaultTxt">The classifier will appear here.</p>
+                  </div>
+                </div>
+                <div className="buttonsAlign">
+                  <button className="mx-2 productsBtn" type="button" onClick={() => start(URL.products)}>
+                    Menstrual Products
+                  </button>
+                  <button className="mx-2 pillsBtn" type="button" onClick={() => start(URL.pills)}>
+                    Menstrual Pills
+                  </button>
                 </div>
               </div>
               <div className="col-md-5 mx-3 mt-4 pt-2 informContainer">
                 <h2 className="infoHeading">Understand Your Menstrual Products</h2>
-                <div id="info-container"></div>
+                <div id="info-container">
+                  <p class="infoDefaultTxt">No information to display until a classifier is selected.</p>
+                </div>
               </div>
             </div>
           </div>

@@ -14,8 +14,8 @@ export default function Popup(){
       <Button 
         variant="link" 
         onClick={handleShow} 
-        className="question-button" 
-        style={{ width: '30px', height: '18px' }}
+        className="pt-2 question-button" 
+        style={{ width: '30px', height: '28px' }}
       >
         <img 
           style={{ width: '18px', height: '18px' }} 

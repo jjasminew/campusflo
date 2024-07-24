@@ -2,10 +2,13 @@
   border-radius: 15px;
   max-width: 600px;
   width: 100%;
+  font-family: "Belanosima", sans-serif;
 }
 
 .inputArea{
   margin-bottom: 15px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
 }
 
 .submitBtn{
@@ -17,9 +20,13 @@
   padding-top: 5px;
   padding-bottom: 5px;
   margin-bottom: 20px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
 }
 
 .logIn{
   font-size: 14px;
   text-align: center;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
 }

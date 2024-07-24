@@ -103,6 +103,7 @@ export default function AddPost() {
             <Link className="loginPostTxt" to='/login'>Login to create a post</Link>
           </h2>
           <p className="signupPostTxt">Don't have an account? <Link to='/signup' className="signupPostTxt">Sign Up</Link></p>
+          <p className="signupLike">*Likes and comments require an account</p>
         </>
         :<>
           <h2 className="createPostTxt">Create post</h2>
@@ -138,7 +139,7 @@ export default function AddPost() {
           {progress === 0 ? null : (
             <div className="progress">
               <div
-                className="progress-bar progress-bar-striped mt-2"
+                className="progress-bar progress-bar-striped"
                 style={{ width: `${progress}%` }}
               >
                 {`uploading image ${progress}%`}
@@ -148,7 +149,7 @@ export default function AddPost() {
 
           {/* submit button */}
           <button 
-            className="form-control btn-primary mt-2" 
+            className="form-control btn-primary mt-2 postBtn" 
             onClick={handleSubmit}
           >
             Submit

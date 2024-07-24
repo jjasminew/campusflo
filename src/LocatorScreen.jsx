@@ -1,5 +1,7 @@
 import './LocatorScreen.css';
 import React, {useRef, useState, useEffect} from 'react';
+import { onAuthStateChanged } from 'firebase/auth';
+import { auth } from './firebaseConfig';
 import { MapContainer, TileLayer, Marker, Popup, Polyline } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
@@ -33,6 +35,21 @@ const haversineDistance = (coords1, coords2) => {
 
 
 export default function LocatorScreen() {
+  const [userName, setUserName] = useState(null);
+
+  useEffect(() => {
+    const unsubscribe = onAuthStateChanged(auth, (user) => {
+      if (user) {
+        setUserName(user.displayName || "Guest");
+      } else {
+        setUserName(null);
+      }
+    });
+
+    return () => unsubscribe();
+  }, []);
+
+  
   const [center, setCenter] = useState({ lat: 34.052235, lng: -118.243683 });
   const mapRef = useRef();
   const location = useGeoLocation();
@@ -84,7 +101,9 @@ export default function LocatorScreen() {
             <div className="row d-flex justify-content-center">
               <div className="px-2 px-md-5">
                 <div className="locatorTxtAlign">
-                  <h1 className="locatorTxt">Welcome,</h1>
+                  <h1 className="locatorTxt">
+                    Welcome{userName ? ` ${userName},` : ','}
+                  </h1>
                   <p className="locatorSubTxt">Explore locations near you providing free menstrual products on your campus.</p>
                 </div>
                 <MapContainer center={[center.lat, center.lng]} zoom={13} scrollWheelZoom={true} ref={mapRef}>

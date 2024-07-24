@@ -1,3 +1,68 @@
-h1{
-  font-size: 20px;
+.header{
+  height: 35vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('src/assets/campusflo.jpg');
+  background-size: cover; /* Makes the background cover the entire area */
+  background-position: start; /* Centers the background image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+}
+
+.title{
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-size: 6.5vw;
+  font-style: normal;
+  font-weight: 700;
+  text-shadow: 
+  -1px -1px 0 white,   /* Outline to the top-left */
+   1px -1px 0 white,   /* Outline to the top-right */
+  -1px  1px 0 white,   /* Outline to the bottom-left */
+   1px  1px 0 white;   /* Outline to the bottom-right */
+  color: #C2242D;
+}
+
+.subtitle{
+  font-family: "Manrope", sans-serif;
+  font-size: 2vw;
+  font-weight: 550;
+  font-style: normal;
+  text-shadow: 
+  -.3px -.3px 0 white,   /* Outline to the top-left */
+   .3px -.3px 0 white,   /* Outline to the top-right */
+  -.3px  .3px 0 white,   /* Outline to the bottom-left */
+   .3px  .3px 0 white;   /* Outline to the bottom-right */
+  color: #C2242D;
+}
+
+.joinBtn{
+  font-family: "Manrope", sans-serif;
+  font-size: 1.1vw;
+  font-weight: 500;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid white;
+}
+
+.statsTitle{
+  color: #C2242D;
+  font-family: "Belanosima", sans-serif;
+  font-size: 3vw;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.about{
+  /* background-color: #F7DCDC; */
+  height: 110vh;
+}
+
+.infoHomeContainer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two equal-width columns */
+}
+
+.infoHomeSection {
+  margin: 5px; /* Margin between items */
 }

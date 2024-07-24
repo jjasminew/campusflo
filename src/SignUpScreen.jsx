@@ -16,7 +16,7 @@ export default function SignUpScreen(){
     try {
       await createUserWithEmailAndPassword(auth, email, password);
       updateProfile(auth.currentUser,{displayName:name});
-      navigate('/');
+      navigate('/locator');
     } catch (error) {
       toast(error.code, {type:'error'});
     }
@@ -60,6 +60,7 @@ export default function SignUpScreen(){
           <br/>
           <button className='submitBtn' onClick={handleSignUp}>Sign Up</button>
           <p className='logIn'>Already have an account? <Link to='/login'>Log In</Link></p>
+          <p className='logIn'><Link to='/locator'>Continue as Guest</Link></p>
         </div>
       </div>
     </div>
