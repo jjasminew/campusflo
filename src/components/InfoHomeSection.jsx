@@ -2,6 +2,7 @@ import './InfoHomeSection.css'
 import React from 'react';
 import line from '../assets/homeline.png';
 
+// features of the web app information on the home page
 export default function InfoHomeSection({ heading, description }){
   return (
     <div className="pt-5 infoHomeSection">

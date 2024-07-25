@@ -7,6 +7,7 @@ export default function LikePost({id, likes}){
   const [user] = useAuthState(auth);
   const likesRef = doc(db, "Posts", id);
 
+  // function for adding and removing likes
   const handleLike=()=>{
     if(likes?.includes(user.uid)){
       updateDoc(likesRef , {

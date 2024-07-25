@@ -18,6 +18,7 @@ export default function Comment({ id }) {
     });
   }, [id]);
 
+  // add a comment function if user is logged in and presses enter
   const handleChangeComment = (e) => {
     if (e.key === "Enter" && currentlyLoggedinUser) {
       updateDoc(commentRef, {

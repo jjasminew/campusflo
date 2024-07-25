@@ -4,8 +4,10 @@ import { Link } from 'react-router-dom';
 import { useAuthState } from 'react-firebase-hooks/auth';
 import { auth } from '../firebaseConfig';
 import { signOut } from 'firebase/auth';
+import logo from '../assets/logo.png';
 
 export default function Navbar(){
+  //holds if user is logged in or not
   const [user] = useAuthState(auth)
   
   return(
@@ -13,16 +15,14 @@ export default function Navbar(){
       <nav className='navbar p-3' style={{backgroundColor: '#F7DCDC'}}>
         <div>
           <Link to='/'>
-            <img src='favicon.svg' width={30} alt="logo" className='mg-5'/>
+            <img src={logo} width={50} alt="logo"/>
           </Link>
         </div>
         <div>
           {
             !user?
             <>
-              <h2>
-                <Link style={{textDecoration: 'none'}} to='/login'><div className='loginBtn'>Login</div></Link>
-              </h2>
+              <Link style={{textDecoration: 'none'}} to='/login'><div className='loginBtn'>Login</div></Link>
             </>
             :<>
               <span className='signedInTxt pe-4'>

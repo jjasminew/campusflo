@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from "react";
 
+//sets location for the locator
 export default function useGeoLocation() {
     const [location, setLocation] = useState({
         loaded: false,
         coordinates: { lat: "", lng: "" },
     });
 
-    const onSuccess = (location) => {
+    const onSuccess = (location) => { //success of finding location
         setLocation({
             loaded: true,
             coordinates: {
@@ -16,7 +17,7 @@ export default function useGeoLocation() {
         });
     };
 
-    const onError = (error) => {
+    const onError = (error) => { //error of finding location
         setLocation({
             loaded: true,
             error: {

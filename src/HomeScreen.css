@@ -43,6 +43,11 @@
   color: white;
   border-radius: 10px;
   border: 1px solid white;
+  transition: background-color 0.3s ease;
+}
+
+.joinBtn:hover {
+  background-color: #C2242D;
 }
 
 .statsTitle{

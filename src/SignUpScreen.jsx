@@ -12,6 +12,7 @@ export default function SignUpScreen(){
   const [name, setName] = useState('');
   let navigate = useNavigate();
 
+  //function that makes an account for the user
   const handleSignUp = async()=>{
     try {
       await createUserWithEmailAndPassword(auth, email, password);

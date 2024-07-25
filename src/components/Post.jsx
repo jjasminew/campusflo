@@ -9,6 +9,7 @@ import Comment from './Comment';
 import Navbar from './Navbar';
 import SideNavbar from './SideNavbar';
 
+// the post page, when you click on an already posted post and want to read more
 export default function Post() {
   const {id} = useParams();
   const [post, setPost] = useState(null);

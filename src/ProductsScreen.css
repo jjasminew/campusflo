@@ -42,6 +42,13 @@
   height: 80vh;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+
+.informContainer > *:last-child {
+  margin-top: auto;
 }
 
 .productLabel{
@@ -91,6 +98,20 @@
 }
 
 .pillsBtn{
+  background-color: white;
+  font-size: 15px;
+  color:  #C2242D;
+  border-radius: 10px;
+  border: 1.5px solid #C2242D;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+}
+
+.downloadBtn{
   background-color: white;
   font-size: 15px;
   color:  #C2242D;

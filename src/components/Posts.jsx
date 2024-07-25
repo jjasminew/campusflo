@@ -50,8 +50,9 @@ export default function Posts() {
                       )}
                     </div>
                     <div className="col-6 d-flex flex-row-reverse">
+                      {/* can only delete posts if you are the original poster */}
                       {
-                        user && user.uid === userId && (
+                        user && user.uid === userId && ( 
                           <DeletePost id={id} imageUrl={imageUrl}/>
                         )
                       }

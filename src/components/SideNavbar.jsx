@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { FaHome, FaMapMarkerAlt, FaBox, FaUsers } from 'react-icons/fa';
 
 export default function SideNavbar() {
+  //styling and html for the side navbar
   return (
     <div className="d-flex flex-column align-items-center px-5 pt-3 text-white min-vh-100" style={{backgroundColor: '#581518'}}>
       <ul className="nav nav-pills flex-column align-items-center align-items-sm-start" id="menu">

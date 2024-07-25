@@ -30,7 +30,7 @@ export default function Popup(){
           <Modal.Title>How to Use</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          This is an AI-powered image classifier that can identify menstrual products (pads, tampons, menstrual cups) and pills. Choose which classifier you would like to use by selecting the corresponding button. To use the classifier, show your product to the camera and the model will identify it!
+          This is an AI-powered image classifier that can identify menstrual products (pads, tampons, menstrual cups) and pills. Choose which classifier you would like to use by selecting the corresponding button. To use the classifier, show your product to the camera. The model will identify and present relevant information! You can also download the information from the classifier in a PDF once the product is identified.
         </Modal.Body>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleClose}>

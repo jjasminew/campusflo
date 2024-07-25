@@ -17,6 +17,7 @@ const markerIcon = new L.Icon({
   popupAnchor: [0, -46], //[left/right, top/bottom]
 });
 
+// function for calculating closest distance
 const haversineDistance = (coords1, coords2) => {
   const toRad = (x) => x * Math.PI / 180;
   const R = 6371; // Earth radius in kilometers
@@ -37,6 +38,7 @@ const haversineDistance = (coords1, coords2) => {
 export default function LocatorScreen() {
   const [userName, setUserName] = useState(null);
 
+  //checking if user is logged in
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (user) => {
       if (user) {
@@ -55,6 +57,7 @@ export default function LocatorScreen() {
   const location = useGeoLocation();
   const [nearestLocation, setNearestLocation] = useState(null);
 
+  //finding the closest location
   useEffect(() => {
     if (location.loaded && !location.error) {
       let minDistance = Infinity;
@@ -72,13 +75,14 @@ export default function LocatorScreen() {
     }
   }, [location]);
 
+  //zooms into the users location
   const showMyLocation = () => {
     if (location.loaded && !location.error) {
       const map = mapRef.current;
       if (map) {
         map.flyTo(
           [location.coordinates.lat, location.coordinates.lng],
-          16, // Define the zoom level
+          16, // defining the zoom level
           { animate: true }
         );
       }
@@ -111,14 +115,16 @@ export default function LocatorScreen() {
                     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                   />
-                  
+
+                  {/* creating markers for all locations */}
                   {locations.map((location, idx) => (
                     <Marker
                       position={[location.lat, location.lng]}
                       icon={markerIcon}
                       key={idx}
                     >
-                      <Popup>
+                      {/* pop up information in the marker */}
+                      <Popup>  
                         <h5>{location.title}</h5>
                         <p>School: {location.school}</p>
                         <p>Address: {location.address}</p>
@@ -126,9 +132,10 @@ export default function LocatorScreen() {
                       </Popup>
                     </Marker>
                   ))}
-                  
+
+                  {/* creating marker for current location */}
                   {location.loaded && !location.error && (
-                    <Marker
+                    <Marker 
                       position={[
                         location.coordinates.lat,
                         location.coordinates.lng,
@@ -142,19 +149,19 @@ export default function LocatorScreen() {
                     </Marker>
                   )}
                   {nearestLocation && (
-                    <Polyline
+                    <Polyline  //creates a line for the closest location
                       positions={[
                         [location.coordinates.lat, location.coordinates.lng],
                         [nearestLocation.lat, nearestLocation.lng]
                       ]}
                       color="blue"
-                    />
+                    /> 
                   )}
                 </MapContainer>
           
                 <div className="row my-4">
                   <div className="col d-flex justify-content-center">
-                    <button className="locateBtn" onClick={showMyLocation}>
+                    <button className="locateBtn" onClick={showMyLocation}> {/* locate button */}
                       Locate Me
                     </button>
                   </div>

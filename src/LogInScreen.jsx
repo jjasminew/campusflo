@@ -11,7 +11,8 @@ export default function LogInScreen(){
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   let navigate = useNavigate();
-  
+
+  //handles login check
   const handleLogIn = async()=>{
     try {
       await signInWithEmailAndPassword(auth, email, password);
