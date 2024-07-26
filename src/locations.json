@@ -1854,5 +1854,1109 @@
         "lat": 32.7713102,
         "lng": -117.0716511,
         "addinfo": "Rm. 12"
+    },
+    {
+        "title": "Student Health",
+        "school": "UCSB",
+        "address": "Building 588 MC 7002, Santa Barbara, CA 93106",
+        "lat": 34.4154707141181,
+        "lng": -119.85274555385,
+        "addinfo": "Tampons, pads, and reusable menstrual cups near the front desk of the Student Health building"
+    },
+    {
+        "title": "ICA STUDY",
+        "school": "UCSB",
+        "address": "Intercollegiate Athletics, Ocean Rd, Santa Barbara, CA 93106",
+        "lat": 34.4161786711728,
+        "lng": -119.85046032667,
+        "addinfo": "Tampons, pads, and reusable menstrual cups near the front desk"
+    },
+    {
+        "title": "SRB",
+        "school": "UCSB",
+        "address": "Ocean Rd, Santa Barbara, CA 93106",
+        "lat": 34.4127259439081,
+        "lng": -119.852704453366,
+        "addinfo": "Resource Center for Sexual & Gender Diversity - 3rd floor\nEducational Opportunity Program - Room 2210\nStudent Mental Health Coordination - Room 2260\nWomen's Center - Front Desk\nSRB Women & Gender Neutral Bathrooms - 1st floor of SRB\nWGSE - Women's Center Lobby"
+    },
+    {
+        "title": "Counseling & Psychological Services",
+        "school": "UCSB",
+        "address": "Building 434, Santa Barbara, CA 93106",
+        "lat": 34.4140973396978,
+        "lng": -119.848269176533,
+        "addinfo": "Tampons, pads, and reusable menstrual cups near the front desk "
+    },
+    {
+        "title": "ONDAS",
+        "school": "UCSB",
+        "address": "University of California, Santa Barbara, Kerr Hall 1150, Santa Barbara, CA 93106",
+        "lat": 34.4152610389962,
+        "lng": -119.84678973842,
+        "addinfo": "Tampons, pads, and reusable menstrual cups near the front desk in room 1150 Kerr Hall"
+    },
+    {
+        "title": "UCEN",
+        "school": "UCSB",
+        "address": "University of California-Santa Barbara, CA 93106",
+        "lat": 34.4117359857316,
+        "lng": -119.847809632199,
+        "addinfo": "Tampons, pads, and reusable menstrual cups near the front desk of the Student Needs Advising Center in the UCEN"
+    },
+    {
+        "title": "MCC",
+        "school": "UCSB",
+        "address": "Multicultural Center, Santa Barbara, CA 93106",
+        "lat": 34.4184385978771,
+        "lng": -119.846296276302,
+        "addinfo": "Tampons, pads, and reusable menstrual cups near the front desk"
+    },
+    {
+        "title": "Library",
+        "school": "UCSB",
+        "address": "Bldg, Davidson Library, 525 UCEN Rd, University of California-Santa Barbara, CA 93106",
+        "lat": 34.414001814508,
+        "lng": -119.845558476532,
+        "addinfo": "Tampons, pads, and reusable menstrual cups near the front desk of the Transfer Student Center, located at room 1584 (Ocean side)"
+    },
+    {
+        "title": "El Centro",
+        "school": "UCSB",
+        "address": "Santa Barbara, CA 93117",
+        "lat": 34.415099068131,
+        "lng": -119.844238784458,
+        "addinfo": "Tampons, pads, and reusable menstrual cups near the front desk"
+    },
+    {
+        "title": "Clinical Science",
+        "school": "UCSF",
+        "address": "521 Parnassus Ave, San Francisco, CA 94143",
+        "lat": 37.7631868377464,
+        "lng": -122.458956720331,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Dental Clinic",
+        "school": "UCSF",
+        "address": "707 Parnassus Ave, San Francisco, CA 94143",
+        "lat": 37.7626205480588,
+        "lng": -122.461343494316,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Health Science West",
+        "school": "UCSF",
+        "address": "Koret Way, San Francisco, CA 94131",
+        "lat": 37.7619536590996,
+        "lng": -122.458237935677,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Kalmanovitz Library",
+        "school": "UCSF",
+        "address": "530 Parnassus Ave, San Francisco, CA 94143",
+        "lat": 37.7634680920563,
+        "lng": -122.458978049165,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Kirkham Child Care",
+        "school": "UCSF",
+        "address": "10 Kirkham St, San Francisco, CA 94143",
+        "lat": 37.7608554339917,
+        "lng": -122.460874906894,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Koret Vision",
+        "school": "UCSF",
+        "address": "San Francisco, CA 94122",
+        "lat": 37.762224031335,
+        "lng": -122.460110011287,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Medical Science Building",
+        "school": "UCSF",
+        "address": "San Francisco, CA 94131",
+        "lat": 37.7629665748891,
+        "lng": -122.458081935729,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Milberry Union",
+        "school": "UCSF",
+        "address": "500 Parnassus Ave, San Francisco, CA 94143",
+        "lat": 37.7641261143625,
+        "lng": -122.458551564555,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "School of Nursing",
+        "school": "UCSF",
+        "address": "2 Koret Way, San Francisco, CA 94143",
+        "lat": 37.7628137239161,
+        "lng": -122.459126913788,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Cardio Vascular Research Institute",
+        "school": "UCSF",
+        "address": "555 Mission Bay Boulevard South, San Francisco, CA 94158",
+        "lat": 37.7708697713212,
+        "lng": -122.390655570517,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Genentech Hall",
+        "school": "UCSF",
+        "address": "600 16th St, San Francisco, CA 94158",
+        "lat": 37.7675749789236,
+        "lng": -122.392581517366,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Helen Diller ",
+        "school": "UCSF",
+        "address": "1450 3rd St, San Francisco, CA 94158",
+        "lat": 37.7704950529525,
+        "lng": -122.389752735739,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Mission Hall ",
+        "school": "UCSF",
+        "address": "550 16th St, San Francisco, CA 94158",
+        "lat": 37.7676995261032,
+        "lng": -122.390517435722,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Neuroscience Building",
+        "school": "UCSF",
+        "address": "675 Nelson Rising Ln, San Francisco, CA 94158",
+        "lat": 37.7694442645175,
+        "lng": -122.392403922261,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Pritzker ",
+        "school": "UCSF",
+        "address": "675 18th St, San Francisco, CA 94107",
+        "lat": 37.7629498366801,
+        "lng": -122.389173286606,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Rock Hall",
+        "school": "UCSF",
+        "address": "1550 4th St, San Francisco, CA 94158",
+        "lat": 37.7691210744012,
+        "lng": -122.391128401667,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Rutter Center ",
+        "school": "UCSF",
+        "address": "1675 Owens St, San Francisco, CA 94158",
+        "lat": 37.768225649195,
+        "lng": -122.393477904977,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "WGVCB (Wayne and Gladys Valley Center for Vision) ",
+        "school": "UCSF",
+        "address": "490 Illinois St, San Francisco, CA 94158",
+        "lat": 37.7662889110757,
+        "lng": -122.388453854055,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "654 Minnesota ",
+        "school": "UCSF",
+        "address": "654 Minnesota St #180, San Francisco, CA 94107",
+        "lat": 37.7621530858391,
+        "lng": -122.390706491575,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "2001 The Embarcadero ",
+        "school": "UCSF",
+        "address": "2001 The Embarcadero, San Francisco, CA 94133",
+        "lat": 37.80809430348,
+        "lng": -122.408598629102,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Alumni Center",
+        "school": "Columbia University",
+        "address": "622 W 113th St, New York, NY 10025",
+        "lat": 40.8074426902787,
+        "lng": -73.9665999774241,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Avery Hall",
+        "school": "Columbia University",
+        "address": "1172 Amsterdam Ave, New York, NY 10027",
+        "lat": 40.808461655985,
+        "lng": -73.9609386,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Buell Hall",
+        "school": "Columbia University",
+        "address": "Buell Hall, 515 W 116th St, New York, NY 10027",
+        "lat": 40.8078631443892,
+        "lng": -73.9614602901598,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Butler Library",
+        "school": "Columbia University",
+        "address": "535 W 114th St, New York, NY 10027",
+        "lat": 40.8067483128786,
+        "lng": -73.9631697459815,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Carman Hall (lobby-level)",
+        "school": "Columbia University",
+        "address": "Carman Hall, 545 W 114th St, New York, NY 10027",
+        "lat": 40.8067584259566,
+        "lng": -73.9641852748172,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "CEPSR",
+        "school": "Columbia University",
+        "address": "New York, NY 10027",
+        "lat": 40.8098477990421,
+        "lng": -73.9608677324884,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Chandler Hall",
+        "school": "Columbia University",
+        "address": "3010 Broadway, New York, NY 10027",
+        "lat": 40.8099307446678,
+        "lng": -73.9622317306386,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Computer Science",
+        "school": "Columbia University",
+        "address": "Mudd Building, 500 W 120th St, New York, NY 10027",
+        "lat": 40.8097171043731,
+        "lng": -73.9601729901597,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Dodge Hall",
+        "school": "Columbia University",
+        "address": "2960 Broadway, New York, NY 10027",
+        "lat": 40.8082201919268,
+        "lng": -73.9633169208453,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Dodge Physical Fitness Center",
+        "school": "Columbia University",
+        "address": "3030 Broadway, New York, NY 10027",
+        "lat": 40.8096335430753,
+        "lng": -73.9617608171457,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Earl Hall",
+        "school": "Columbia University",
+        "address": "2980 Broadway, New York, NY 10027",
+        "lat": 40.8088161484874,
+        "lng": -73.9628505073523,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "East Campus (lobby-level)",
+        "school": "Columbia University",
+        "address": "70 Morningside Dr, New York, NY 10027",
+        "lat": 40.8073559286883,
+        "lng": -73.9590558478312,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Engineering Terrace",
+        "school": "Columbia University",
+        "address": "1210 Amsterdam Ave, New York, NY 10027",
+        "lat": 40.8096697892282,
+        "lng": -73.9600038459814,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Fairchild",
+        "school": "Columbia University",
+        "address": "1212 Amsterdam Ave, New York, NY 10027",
+        "lat": 40.8092405413549,
+        "lng": -73.9602157711175,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Fayerweather",
+        "school": "Columbia University",
+        "address": "Fayerweather Hall, 1180 Amsterdam Ave, New York, NY 10027",
+        "lat": 40.8082894953709,
+        "lng": -73.96030478831,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Hamilton Hall",
+        "school": "Columbia University",
+        "address": "Hamilton Hall, 1130 Amsterdam Ave, New York, NY 10027",
+        "lat": 40.8069773880221,
+        "lng": -73.9616239883101,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Havemeyer Hall",
+        "school": "Columbia University",
+        "address": "3000 Broadway, New York, NY 10027",
+        "lat": 40.809442361449,
+        "lng": -73.9622472324884,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Havemeyer Extension",
+        "school": "Columbia University",
+        "address": "3002 Broadway, New York, NY 10027",
+        "lat": 40.8096209457295,
+        "lng": -73.9622960324884,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Kent Hall",
+        "school": "Columbia University",
+        "address": "1140 Amsterdam Ave, New York, NY 10027",
+        "lat": 40.8074345324284,
+        "lng": -73.9614164324885,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Lerner Hall",
+        "school": "Columbia University",
+        "address": "2920 Broadway, New York, NY 10027",
+        "lat": 40.8070160670908,
+        "lng": -73.9640096748171,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Mathematics",
+        "school": "Columbia University",
+        "address": "Mathematics Hall, 2990 Broadway Room 509, New York, NY 10027",
+        "lat": 40.809365708281,
+        "lng": -73.9628055496808,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "McBain Hall (lobby-level)",
+        "school": "Columbia University",
+        "address": "562 W 113th St, New York, NY 10025",
+        "lat": 40.8060048904022,
+        "lng": -73.965056776667,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Mudd",
+        "school": "Columbia University",
+        "address": "500 W 120th St, New York, NY 10027",
+        "lat": 40.809564184329,
+        "lng": -73.9599462478312,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Philosophy Hall",
+        "school": "Columbia University",
+        "address": "1150 Amsterdam Ave, New York, NY 10027",
+        "lat": 40.8076030034378,
+        "lng": -73.9610332631739,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Pupin",
+        "school": "Columbia University",
+        "address": "538 W 120th St, New York, NY 10027",
+        "lat": 40.8101891619635,
+        "lng": -73.9613522883099,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "School of Social Work",
+        "school": "Columbia University",
+        "address": "1255 Amsterdam Ave, New York, NY 10027",
+        "lat": 40.8102222,
+        "lng": -73.9581853,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "David Geffen Hall",
+        "school": "Columbia University",
+        "address": "10 Lincoln Center Plaza, New York, NY 10023",
+        "lat": 40.7727862,
+        "lng": -73.983104,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Henry R. Kravis Hall",
+        "school": "Columbia University",
+        "address": "655 W 130th St, New York, NY 10027",
+        "lat": 40.8182184,
+        "lng": -73.9597192,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Jerome L. Greene Science Center",
+        "school": "Columbia University",
+        "address": "3227 Broadway, New York, NY 10027",
+        "lat": 40.8170337222432,
+        "lng": -73.9579150883096,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Lenfest Center of the Arts",
+        "school": "Columbia University",
+        "address": "425 W 121st St, New York, NY 10027",
+        "lat": 40.8099487,
+        "lng": -73.9579857,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Prentis Hall",
+        "school": "Columbia University",
+        "address": "632 W 125th St, New York, NY 10027",
+        "lat": 40.8164613,
+        "lng": -73.9596317,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "50 Haven Avenue",
+        "school": "Columbia University",
+        "address": "50 Haven Ave, New York, NY 10032",
+        "lat": 40.8436736654067,
+        "lng": -73.9433224459797,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Allan Rosenfield Building",
+        "school": "Columbia University",
+        "address": "New York, NY 10032",
+        "lat": 40.8427255017176,
+        "lng": -73.9435587478294,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Alumni Auditorium and Schaefer Awards Gallery",
+        "school": "Columbia University",
+        "address": "630 W 168th St, New York, NY 10032",
+        "lat": 40.8411904413535,
+        "lng": -73.9411758423286,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Hammer Health Sciences Center",
+        "school": "Columbia University",
+        "address": "701 W 168th St, New York, NY 10032",
+        "lat": 40.8425509,
+        "lng": -73.9423420999999,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Roy and Diana Vagelos Education Center",
+        "school": "Columbia University",
+        "address": "104 Haven Ave, New York, NY 10032",
+        "lat": 40.8449184275182,
+        "lng": -73.942608103651,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Russ Berrie Medical Science Pavilion",
+        "school": "Columbia University",
+        "address": "560 W 168th St, New York, NY 10032",
+        "lat": 40.8405949558958,
+        "lng": -73.9389074901582,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "School of Nursing Building",
+        "school": "Columbia University",
+        "address": "560 W 168th St, New York, NY 10032",
+        "lat": 40.8405220316537,
+        "lng": -73.9388499908625,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Vagelos College of Physicians and Surgeons Building",
+        "school": "Columbia University",
+        "address": "630 W 168th St, New York, NY 10032",
+        "lat": 40.8417051029927,
+        "lng": -73.9413708459798,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Fine arts building",
+        "school": "USF (University of South Florida)",
+        "address": "4202 East Fowler Ave., FAH 110, Tampa, FL 33620",
+        "lat": 28.064108143257,
+        "lng": -82.4163148795199,
+        "addinfo": "First floor"
+    },
+    {
+        "title": "Interdisciplinary Sciences",
+        "school": "USF (University of South Florida)",
+        "address": "USF Cherry Dr, Tampa, FL 33620",
+        "lat": 28.0620199395984,
+        "lng": -82.4142398453893,
+        "addinfo": "Second and third floors"
+    },
+    {
+        "title": "Library",
+        "school": "USF (University of South Florida)",
+        "address": "4101 USF Apple Dr, Tampa, FL 33620",
+        "lat": 28.0597824565849,
+        "lng": -82.4122667932974,
+        "addinfo": "First and fifth floors"
+    },
+    {
+        "title": "Cooper Hall",
+        "school": "USF (University of South Florida)",
+        "address": "Tampa, FL 33620",
+        "lat": 28.0600393837738,
+        "lng": -82.4108435758447,
+        "addinfo": "First floor"
+    },
+    {
+        "title": "Gender and Sexuality Center",
+        "school": "UT Austin",
+        "address": "Burdine Hall, 2505 University Ave #536, Austin, TX 78705",
+        "lat": 30.2889895302066,
+        "lng": -97.7384921760844,
+        "addinfo": "Room 2.112"
+    },
+    {
+        "title": "Patton Hall (RLP)",
+        "school": "UT Austin",
+        "address": "305 E 23rd St, Austin, TX 78712",
+        "lat": 30.284932,
+        "lng": -97.7354491999999,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Lyndon B. Johnson School of Public Affairs (SRH)",
+        "school": "UT Austin",
+        "address": "2315 Red River St, Austin, TX 78712",
+        "lat": 30.285707,
+        "lng": -97.7285035,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Perry-Castañeda Library (PCL) ",
+        "school": "UT Austin",
+        "address": "101 E 21st St, Austin, TX 78712",
+        "lat": 30.2826575,
+        "lng": -97.7382078999999,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Texas Union",
+        "school": "UT Austin",
+        "address": "2308 Whitis Ave, Austin, TX 78712",
+        "lat": 30.2866609,
+        "lng": -97.7411636,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "McCombs School of Business",
+        "school": "UT Austin",
+        "address": "2110 Speedway, Austin, TX 78705",
+        "lat": 30.2851087,
+        "lng": -97.7375574,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "University Teaching Center",
+        "school": "UT Austin",
+        "address": "105 W 21st St, Austin, TX 78712",
+        "lat": 30.2831907,
+        "lng": -97.7388459,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Moody College of Communications",
+        "school": "UT Austin",
+        "address": "300 W Dean Keeton St, Austin, TX 78712",
+        "lat": 30.2902267,
+        "lng": -97.7407784,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Engineering Education and Research Center",
+        "school": "UT Austin",
+        "address": "2501 Speedway, Austin, TX 78712",
+        "lat": 30.2880123,
+        "lng": -97.7351504,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Students Services Building",
+        "school": "UT Austin",
+        "address": "100 W Dean Keeton St, Austin, TX 78712",
+        "lat": 30.2900264,
+        "lng": -97.7383602,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Student Health Center",
+        "school": "UC Merced",
+        "address": "5200 N Lk Rd, Merced, CA 95343",
+        "lat": 37.375577428919,
+        "lng": -120.424079221875,
+        "addinfo": "2nd Floor"
+    },
+    {
+        "title": "Residence Office",
+        "school": "UC Merced",
+        "address": "5400 N Lake Rd, Merced, CA 95340",
+        "lat": 37.3647963628645,
+        "lng": -120.427417938168,
+        "addinfo": "100 Terrace Center"
+    },
+    {
+        "title": "Joseph E. Gallo Recreation Center",
+        "school": "UC Merced",
+        "address": "Muir Pass Road, Merced, CA 95340",
+        "lat": 37.3654960511271,
+        "lng": -120.426364865182,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Biological Sciences Building",
+        "school": "CSULA",
+        "address": "Biological Sciences, 5151 State University Dr, Los Angeles, CA 90032",
+        "lat": 34.0657400767735,
+        "lng": -118.169009717445,
+        "addinfo": "First floor, women’s restroom 150 "
+    },
+    {
+        "title": "Career Development Center",
+        "school": "CSULA",
+        "address": "5151 State University Dr, Los Angeles, CA 90032",
+        "lat": 34.0663433401887,
+        "lng": -118.168148715595,
+        "addinfo": "Next to room 10, women’s restroom 11A "
+    },
+    {
+        "title": "Engineering and Technology Building",
+        "school": "CSULA",
+        "address": "5151 State University Dr, Los Angeles, CA 90032",
+        "lat": 34.066658576358,
+        "lng": -118.166577973266,
+        "addinfo": "First floor, A-wing, women’s restroom 145 \nSecond floor, A-wing, women’s restroom 228 \nThird floor, A-wing, women’s restroom 302 \nFourth floor, A-wing, women’s restroom 402 \nFifth floor, A-wing, women’s restroom 503 \nSixth floor, A-wing, women’s restroom 603 "
+    },
+    {
+        "title": "Fine Arts Building",
+        "school": "CSULA",
+        "address": "State University Dr, Los Angeles, CA 90032",
+        "lat": 34.0675107991039,
+        "lng": -118.166513175116,
+        "addinfo": "First floor, women’s restroom 151 "
+    },
+    {
+        "title": "King Hall",
+        "school": "CSULA",
+        "address": "5151 State University Dr, Los Angeles, CA 90032",
+        "lat": 34.0680768227776,
+        "lng": -118.165794459773,
+        "addinfo": "First floor, C-wing, women’s restroom C1061 \nFifth floor, women’s restroom 5113 "
+    },
+    {
+        "title": "Library North",
+        "school": "CSULA",
+        "address": "5151 State University Dr, Los Angeles, CA 90032",
+        "lat": 34.0676622613705,
+        "lng": -118.16758134998,
+        "addinfo": "First floor, women's restroom 1024"
+    },
+    {
+        "title": "Music Building",
+        "school": "CSULA",
+        "address": "5151 State University Dr, Los Angeles, CA 90032",
+        "lat": 34.0688729211411,
+        "lng": -118.167509976966,
+        "addinfo": "First floor, women’s restroom 146 "
+    },
+    {
+        "title": "Physical Education Building",
+        "school": "CSULA",
+        "address": "1986 Paseo Rancho Castilla, Los Angeles, CA 90032",
+        "lat": 34.0665883,
+        "lng": -118.1693283,
+        "addinfo": "First floor, women’s restroom 137 \nBasement, women’s restroom 46 "
+    },
+    {
+        "title": "Salazar Hall",
+        "school": "CSULA",
+        "address": "5154 State University Dr, Los Angeles, CA 90032",
+        "lat": 34.0644152153206,
+        "lng": -118.169377810787,
+        "addinfo": "Northwest side of building, first floor, women’s restroom 151 \nEast side of building, first floor, women’s restroom 30 "
+    },
+    {
+        "title": "Simpson Tower",
+        "school": "CSULA",
+        "address": "5154 State University Dr, Los Angeles, CA 90032",
+        "lat": 34.0645596331086,
+        "lng": -118.169129600252,
+        "addinfo": "First floor, RR-1A, all-gender restroom 108"
+    },
+    {
+        "title": "South Village",
+        "school": "CSULA",
+        "address": "5500 Paseo Rancho Castilla, Los Angeles, CA 90032",
+        "lat": 34.0675022738154,
+        "lng": -118.163902430937,
+        "addinfo": "Community restrooms on all floors in towers one, two, and three\nPublic restrooms on the first floor in towers two and three "
+    },
+    {
+        "title": "Student Health Center",
+        "school": "CSULA",
+        "address": "5151 State University Dr, Los Angeles, CA 90032",
+        "lat": 34.0659376781731,
+        "lng": -118.168126871416,
+        "addinfo": "First floor, women’s restroom 123 \nSecond floor, women’s restroom 203 "
+    },
+    {
+        "title": "Student Services Building",
+        "school": "CSULA",
+        "address": "5151 State University Dr, Los Angeles, CA 90032",
+        "lat": 34.06588949573,
+        "lng": -118.170560512877,
+        "addinfo": "First floor, women’s restroom 1112 \nFifth floor, women’s restroom 5112 "
+    },
+    {
+        "title": "Theatre (State Playhouse)",
+        "school": "CSULA",
+        "address": "Los Angeles, CA 90032",
+        "lat": 34.0686600259813,
+        "lng": -118.16806074998,
+        "addinfo": "Inside women’s restroom 130 \nOutside women’s restroom 146 "
+    },
+    {
+        "title": "Aerospace Engineering Research Building",
+        "school": "University of Washington",
+        "address": "Seattle, WA 98105",
+        "lat": 47.6542086369662,
+        "lng": -122.30573198539,
+        "addinfo": "108, 208, 308, 408\nAll-gender restroom: 10"
+    },
+    {
+        "title": "Allen Library",
+        "school": "University of Washington",
+        "address": "4000 15th Ave NE, Seattle, WA 98195",
+        "lat": 47.6518243,
+        "lng": -122.3090348,
+        "addinfo": "281E, 286E, 381C, 386E, 481C, G081D, G086J*"
+    },
+    {
+        "title": "Anderson Hall",
+        "school": "University of Washington",
+        "address": "3715 W Stevens Wy NE, Seattle, WA 98195",
+        "lat": 47.6517622,
+        "lng": -122.3075402,
+        "addinfo": "003, 227"
+    },
+    {
+        "title": "Architecture Hall",
+        "school": "University of Washington",
+        "address": "3943 W Stevens Wy NE, Seattle, WA 98195",
+        "lat": 47.6545873,
+        "lng": -122.3108321,
+        "addinfo": "G010*\nAll-gender restrooms: 212, 213*"
+    },
+    {
+        "title": "Art Building",
+        "school": "University of Washington",
+        "address": "Art Building, 4000 15th Ave NE Room 104, Seattle, WA 98105",
+        "lat": 47.6585326999999,
+        "lng": -122.306427,
+        "addinfo": "107, 203, 244A, 305A\nAll-gender restroom: 001A, 011A,109, 111A, 340A"
+    },
+    {
+        "title": "Atmospheric Sciences - Geophysics Building",
+        "school": "University of Washington",
+        "address": "3920 Okanogan Ln, Seattle, WA 98195",
+        "lat": 47.6538692,
+        "lng": -122.3094633,
+        "addinfo": "141, 217, 317, 419A, 613, 700E\nAll-gender restrooms: 113, 213, 513, 700F"
+    },
+    {
+        "title": "Bagley Hall",
+        "school": "University of Washington",
+        "address": "Seattle, WA 98195",
+        "lat": 47.6531971885656,
+        "lng": -122.308473451795,
+        "addinfo": "027, 100D*, 200C, 300C, 400A*\nAll-gender restroom: 231"
+    },
+    {
+        "title": "Bank of America Executive Education Center",
+        "school": "University of Washington",
+        "address": "University of Washington, Seattle, WA 98195",
+        "lat": 47.6595700230632,
+        "lng": -122.307644162593,
+        "addinfo": "228B, 410A\nAll-gender restrooms: 028, 032*"
+    },
+    {
+        "title": "Memorial Union",
+        "school": "ASU",
+        "address": "Tempe, AZ 85281",
+        "lat": 33.4186149606442,
+        "lng": -111.934389260508,
+        "addinfo": "Every floor in women's restrooms"
+    },
+    {
+        "title": "Sun Devil Fitness Complex",
+        "school": "ASU",
+        "address": "400 E Apache Blvd, Tempe, AZ 85281",
+        "lat": 33.4152209,
+        "lng": -111.932521,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Health services buildings",
+        "school": "ASU",
+        "address": "451 E University Dr, Tempe, AZ 85281",
+        "lat": 33.4213463,
+        "lng": -111.93304,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Regenstein Library",
+        "school": "UChicago",
+        "address": "1100 E 57th St, Chicago, IL 60637",
+        "lat": 41.792279,
+        "lng": -87.599954,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Crerar Library",
+        "school": "UChicago",
+        "address": "5730 S Ellis Ave, Chicago, IL 60637",
+        "lat": 41.790225,
+        "lng": -87.6025559999999,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Harper Memorial Library",
+        "school": "UChicago",
+        "address": "1116 E 59th St, Chicago, IL 60637",
+        "lat": 41.7879663999999,
+        "lng": -87.5995363999999,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Ratner Athletic Center",
+        "school": "UChicago",
+        "address": "5530 S Ellis Ave, Chicago, IL 60637",
+        "lat": 41.7940795,
+        "lng": -87.601717,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Henry Crown Fieldhouse",
+        "school": "UChicago",
+        "address": "5550 S University Ave, Chicago, IL 60637",
+        "lat": 41.7935818,
+        "lng": -87.5989697,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Ida Noyes Student Center",
+        "school": "UChicago",
+        "address": "Ida Noyes Hall, 1212 E 59th St, Chicago, IL 60637",
+        "lat": 41.788031,
+        "lng": -87.5956799,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Graduate Student Lounge",
+        "school": "UChicago",
+        "address": "970 E 58th St 3rd floor, Chicago, IL 60637",
+        "lat": 41.789734,
+        "lng": -87.6015371,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Center for Identity + Inclusion",
+        "school": "UChicago",
+        "address": "5710 S Woodlawn Ave, Chicago, IL 60637",
+        "lat": 41.7910277999999,
+        "lng": -87.5967491999999,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Keller Center",
+        "school": "UChicago",
+        "address": "1307 E 60th St, Chicago, IL 60637",
+        "lat": 41.785663,
+        "lng": -87.5938718,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Student Wellness Center",
+        "school": "UChicago",
+        "address": "Goldblatt Pavilion, 840 E 59th St, Chicago, IL 60637",
+        "lat": 41.7881681,
+        "lng": -87.6036669,
+        "addinfo": "n/a"
+    },
+    {
+        "title": "Ayers",
+        "school": "Northwestern",
+        "address": "2324 N Campus Dr, Evanston, IL 60201",
+        "lat": 42.0603915,
+        "lng": -87.6750984999999,
+        "addinfo": "101, 102"
+    },
+    {
+        "title": "Allison",
+        "school": "Northwestern",
+        "address": "Evanston, IL 60201",
+        "lat": 42.0509475500501,
+        "lng": -87.6786423975416,
+        "addinfo": "1520A, 1520B, 1520C, 1546, 524, 527"
+    },
+    {
+        "title": "Bobb-McCulloch",
+        "school": "Northwestern",
+        "address": "2305 Sheridan Rd, Evanston, IL 60201",
+        "lat": 42.0595809,
+        "lng": -87.6755259,
+        "addinfo": "130, B09"
+    },
+    {
+        "title": "Chapin",
+        "school": "Northwestern",
+        "address": "Evanston, IL 60208",
+        "lat": 42.0514121249621,
+        "lng": -87.6813046267123,
+        "addinfo": "115B"
+    },
+    {
+        "title": "Foster Walker",
+        "school": "Northwestern",
+        "address": "Evanston, IL 60208",
+        "lat": 42.0530277133576,
+        "lng": -87.6785667626392,
+        "addinfo": "9104, 9106, B06"
+    },
+    {
+        "title": "Goodrich",
+        "school": "Northwestern",
+        "address": "Evanston, IL 60209",
+        "lat": 42.0603594020564,
+        "lng": -87.6762445350434,
+        "addinfo": 104
+    },
+    {
+        "title": "Jones",
+        "school": "Northwestern",
+        "address": "1820 Sheridan Rd, Evanston, IL 60208",
+        "lat": 42.0493215158698,
+        "lng": -87.6749602663109,
+        "addinfo": "113, 114, 17, 18"
+    },
+    {
+        "title": "Hobart",
+        "school": "Northwestern",
+        "address": "630 Emerson St, Evanston, IL 60201",
+        "lat": 42.051931,
+        "lng": -87.6792543999999,
+        "addinfo": 115
+    },
+    {
+        "title": "Kemper",
+        "school": "Northwestern",
+        "address": "2420 N Campus Dr, Evanston, IL 60201",
+        "lat": 42.0610062,
+        "lng": -87.6750035,
+        "addinfo": "181, 182"
+    },
+    {
+        "title": "NMQ",
+        "school": "Northwestern",
+        "address": "North Mid-Quads Residence Hall, Evanston, IL 60201",
+        "lat": 42.052020514381,
+        "lng": -87.6797984356191,
+        "addinfo": 117
+    },
+    {
+        "title": "PMA (626 Emerson)",
+        "school": "Northwestern",
+        "address": "626 Emerson St, Evanston, IL 60201",
+        "lat": 42.0520172478062,
+        "lng": -87.6786125337994,
+        "addinfo": 115
+    },
+    {
+        "title": "Sargent",
+        "school": "Northwestern",
+        "address": "2245 Sheridan Rd, Evanston, IL 60201",
+        "lat": 42.0587522999999,
+        "lng": -87.6755743,
+        "addinfo": "134, 135, B11, B12"
+    },
+    {
+        "title": "Shepard",
+        "school": "Northwestern",
+        "address": "626 University Pl, Evanston, IL 60201",
+        "lat": 42.0511314863189,
+        "lng": -87.67872862581,
+        "addinfo": "103, 122, B11, B17"
+    },
+    {
+        "title": "SMQ",
+        "school": "Northwestern",
+        "address": "655 University Pl, Evanston, IL 60201",
+        "lat": 42.0515350824515,
+        "lng": -87.6799496509818,
+        "addinfo": 117
+    },
+    {
+        "title": "Slivka",
+        "school": "Northwestern",
+        "address": "2332 N Campus Dr, Evanston, IL 60201",
+        "lat": 42.0604938,
+        "lng": -87.6757018,
+        "addinfo": 136
+    },
+    {
+        "title": "1838 Chicago",
+        "school": "Northwestern",
+        "address": "1838 Chicago Ave, Evanston, IL 60201",
+        "lat": 42.0508817871868,
+        "lng": -87.6784049890579,
+        "addinfo": "122, B16"
+    },
+    {
+        "title": "Willard",
+        "school": "Northwestern",
+        "address": "1865 Sherman Ave, Evanston, IL 60201",
+        "lat": 42.0517516,
+        "lng": -87.6814442,
+        "addinfo": "144, 148, B49, B51, B62"
+    },
+    {
+        "title": "Marino Center Atrium",
+        "school": "Northeastern",
+        "address": "369 Huntington Ave, Boston, MA 02115",
+        "lat": 42.3403312803323,
+        "lng": -71.0902808779566,
+        "addinfo": "1st floor"
     }
 ]

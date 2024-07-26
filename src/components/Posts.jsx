@@ -24,7 +24,6 @@ export default function Posts() {
       }));
       //update state with fetched posts
       setPosts(post)
-      console.log(post)
     })
   },[]);
   

@@ -1,5 +1,6 @@
 import './LocatorScreen.css';
 import React, {useRef, useState, useEffect} from 'react';
+import { Link } from 'react-router-dom';
 import { onAuthStateChanged } from 'firebase/auth';
 import { auth } from './firebaseConfig';
 import { MapContainer, TileLayer, Marker, Popup, Polyline } from 'react-leaflet';
@@ -42,7 +43,7 @@ export default function LocatorScreen() {
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (user) => {
       if (user) {
-        setUserName(user.displayName || "Guest");
+        setUserName(user.displayName);
       } else {
         setUserName(null);
       }
@@ -165,6 +166,13 @@ export default function LocatorScreen() {
                       Locate Me
                     </button>
                   </div>
+                  <p className="mt-2 feedback">Can't find your campus resources? Let us know <Link
+                      style={{color: '#C2242D'}}
+                      to='https://forms.gle/X8n7XVc1NE5Hv6NbA' 
+                      target="_blank" 
+                      rel="noopener noreferrer">here.
+                    </Link>
+                  </p>
                 </div>
               </div>
             </div>

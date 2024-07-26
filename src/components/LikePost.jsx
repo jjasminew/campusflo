@@ -34,7 +34,7 @@ export default function LikePost({id, likes}){
     <div>
       <i 
         className={`fa fa-heart${!likes?.includes(user.uid)? "-o": ""} fa-lg`} 
-        style={{cursor:"pointer", color:likes?.includes(user.uid)?"red":null}} 
+        style={{cursor:"pointer", color:likes?.includes(user.uid)?"red":"black"}} 
         onClick={handleLike}
       />
     </div>

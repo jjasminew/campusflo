@@ -163,7 +163,7 @@ export default function ProductsScreen() {
 
     const margin = 20; //margin from edges
     const imageWidth = 150;
-    const imageHeight = 130;
+    const imageHeight = 150;
     const pageWidth = doc.internal.pageSize.width; //full width of the page
     const textX = margin;
     const textY = margin;

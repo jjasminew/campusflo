@@ -25,7 +25,7 @@ export default function DeletePost({id, imageUrl}){
     <div>
       <i className = 'fa fa-times' 
         onClick={handleDelete}
-        style={{cursor: "pointer"}}
+        style={{ cursor: 'pointer', color: 'black' }}
       />
     </div>
   )

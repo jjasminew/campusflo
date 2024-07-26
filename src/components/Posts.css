@@ -32,12 +32,14 @@
   font-weight: 400;
   margin-top: 10px;
   font-size: 30px;
+  color: black;
 }
 
 .postDate{
   font-size: 12px;
   font-family: "Manrope", sans-serif;
   font-weight: 400;
+  color: black;
 }
 
 .postDescript {
@@ -48,16 +50,19 @@
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 14px;
+  color: black;
 }
 
 .postLikes{
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 14px;
+  color: black;
 }
 
 .postComments{
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 14px;
+  color: black;
 }
