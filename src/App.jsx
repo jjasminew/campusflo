@@ -1,5 +1,5 @@
 import './App.css'
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import HomeScreen from './HomeScreen'
 import CommunityScreen from './CommunityScreen'
 import SignUpScreen from './SignUpScreen'

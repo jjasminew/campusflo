@@ -10,10 +10,19 @@ import useGeoLocation from "./hooks/useGeoLocation";
 import locations from "./locations.json";
 import Navbar from './components/Navbar'
 import SideNavbar from './components/SideNavbar'
+import Redmarker from './assets/redmarker.png'
+import Bluemarker from './assets/bluemarker.png'
 
 const markerIcon = new L.Icon({
-  iconUrl: "src/assets/redmarker.png",
+  iconUrl: Redmarker,
   iconSize: [40, 40],
+  iconAnchor: [17, 46], //[left/right, top/bottom]
+  popupAnchor: [0, -46], //[left/right, top/bottom]
+});
+
+const hereIcon = new L.Icon({
+  iconUrl: Bluemarker,
+  iconSize: [30, 45],
   iconAnchor: [17, 46], //[left/right, top/bottom]
   popupAnchor: [0, -46], //[left/right, top/bottom]
 });
@@ -141,6 +150,7 @@ export default function LocatorScreen() {
                         location.coordinates.lat,
                         location.coordinates.lng,
                       ]}
+                      icon={hereIcon}
                     >
                       <Popup>
                         <b>

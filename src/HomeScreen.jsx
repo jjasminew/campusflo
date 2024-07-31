@@ -7,6 +7,7 @@ import InfoHomeSection from './components/InfoHomeSection';
 import TypingEffect from './components/TypingEffect';
 import './HomeScreen.css';
 import pads from './assets/pads.jpg';
+import Campusflo from './assets/campusflo.jpg'
 
 export default function HomeScreen() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -22,7 +23,12 @@ export default function HomeScreen() {
   return (
     <>
       <Navbar />
-      <div className="header">
+      <div className="header" style={{
+        backgroundImage: `url(${Campusflo})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'start',
+        backgroundRepeat: 'no-repeat' }}
+      >
         <h1 className="mt-5 text-center title">CampusFlo</h1>
         <div className="d-flex flex-nowrap mt-md-4 mt-2 mb-3 text-center subtitle"><TypingEffect/></div>
         <div className="d-flex justify-content-center">

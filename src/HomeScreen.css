@@ -4,10 +4,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url('src/assets/campusflo.jpg');
-  background-size: cover; /* Makes the background cover the entire area */
-  background-position: start; /* Centers the background image */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
 }
 
 .title{

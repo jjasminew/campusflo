@@ -5,12 +5,13 @@ import { jsPDF } from 'jspdf';
 import Navbar from './components/Navbar';
 import SideNavbar from './components/SideNavbar';
 import Popup from './components/Popup';
-import padPng from './assets/padInfo.png';
+import padPng from './assets/pads.jpg';
 import tamponPng from './assets/tamponInfo.png';
 import cupPng from './assets/cupInfo.png';
 import ibuprofenPng from './assets/ibuprofen.png';
 import naproxenPng from './assets/naproxen.png';
 import acePng from './assets/acetaminophen.png';
+
 
 export default function ProductsScreen() {
   //holds the two different teachable machines
